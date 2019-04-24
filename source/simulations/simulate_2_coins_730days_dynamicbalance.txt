@@ -1,0 +1,53 @@
+from ccdata import *
+import math
+import copy
+import pandas as pd
+import numpy as np
+import datetime
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
+import talib
+
+# Candidates: BTC, USDT
+coin_ids = ["BTC", "USDT"]
+
+btc_price = get_one("BTC","D","close")
+btc_price = btc_price[-730:]
+btc_ppo = talib.PPO(btc_price, fastperiod=3, slowperiod=6, matype=0)
+
+usdt_price=get_one("USDT","D","close")
+usdt_price = usdt_price[-730:]
+usdt_ppo = talib.PPO(usdt_price, fastperiod=3, slowperiod=6, matype=0)
+
+combined_prices = np.column_stack((btc_price, usdt_price))
+combined_prices
+
+cash_balance = 100000
+threshold = 0.15
+last_trading_date = -1
+trading_min_period = 5
+coin_amount = 0
+coin_balance = 0
+
+for dindex in range(len(combined_prices)):
+    print("Date " + str(dindex))
+    midbalance = (coin_amount * btc_price[dindex] + cash_balance) / 2
+    coin_balance = coin_amount * btc_price[dindex]
+    radio = cash_balance / midbalance - 1
+    if ((radio > threshold or radio < -threshold) and (last_trading_date < 0 or dindex >= last_trading_date + trading_min_period)):
+        if (radio > threshold):
+            # Buy Coins
+            coin_balance = midbalance
+            coin_amount += coin_balance / btc_price[dindex]
+            cash_balance = midbalance
+            print("Buying BTC, total Amount: " + str(coin_amount) + " Price " + str(btc_price[dindex]) + ". And Cash Balance: " + str(cash_balance))
+        if (radio < -threshold):
+            # Sell Coins
+            coin_balance = midbalance
+            coin_amount = midbalance / btc_price[dindex]
+            cash_balance = midbalance
+            print("Buying BTC, total Amount: " + str(coin_amount) + " Price " + str(btc_price[dindex]) + ". And Cash Balance: " + str(cash_balance))
+        last_trading_date = dindex
+        
+print("Total Balance: " + str(coin_balance + cash_balance) + ". Coin Balance: " + str(coin_balance) + ". Coin Amount: " + str(coin_amount) + ". Cash Balance: " + str(cash_balance))
+

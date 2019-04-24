@@ -1,0 +1,95 @@
+3/1/2017 - 3/1/2018:
+
+Day -779: transaction: Buying: Time=[2017_03_01_07:44:20],CoinId=[BTC],Amount=[26.406341163796252],Price=[6311.61529092],TotalValue=[166666.66666666666]
+Day -779: transaction: Buying: Time=[2017_03_01_07:44:20],CoinId=[ETH],Amount=[2299.4589384122664],Price=[72.4808188059],TotalValue=[166666.66666666666]
+Day -779: transaction: Buying: Time=[2017_03_01_07:44:20],CoinId=[XMR],Amount=[2003.049598060608],Price=[83.2064602035],TotalValue=[166666.66666666666]
+
+Day -778: transaction: Buying: Time=[2017_03_02_07:44:20],CoinId=[XMR],Amount=[2.1955490548601918e-13],Price=[88.3722164844],TotalValue=[1.9402553637822468e-11]
+Day -778: transaction: Buying: Time=[2017_03_02_07:44:20],CoinId=[BTC],Amount=[3.0668699103368772e-15],Price=[6326.500375],TotalValue=[1.9402553637822468e-11]
+Day -778: transaction: Buying: Time=[2017_03_02_07:44:20],CoinId=[ETH],Amount=[2.669904128784475e-13],Price=[72.6713496138],TotalValue=[1.9402553637822468e-11]
+
+Day -777: transaction: Buying: Time=[2017_03_03_07:44:20],CoinId=[XMR],Amount=[3.712064246841733e-29],Price=[87.0452140082],TotalValue=[3.2311742677852644e-27]
+Day -777: transaction: Buying: Time=[2017_03_03_07:44:20],CoinId=[BTC],Amount=[5.097167127944591e-31],Price=[6339.15699972],TotalValue=[3.2311742677852644e-27]
+
+Day -649: transaction: Selling: Time=[2017_07_09_07:44:20],CoinId=[XMR],Amount=[2003.0495980606083],Price=[352.121045042],TotalValue=[705315.9177400594]
+Day -649: transaction: Selling: Time=[2017_07_09_07:44:20],CoinId=[BTC],Amount=[26.406341163796256],Price=[18079.3660544],TotalValue=[477409.90805764345]
+Day -649: transaction: Selling: Time=[2017_07_09_07:44:20],CoinId=[ETH],Amount=[2299.458938412267],Price=[2702.09865641],TotalValue=[6213364.907953751]
+Day -649: transaction: Buying: Time=[2017_07_09_07:44:20],CoinId=[USDT],Amount=[1080005.636886488],Price=[6.84819641782],TotalValue=[7396090.733751454]
+
+Day -621: transaction: Selling: Time=[2017_08_06_07:44:20],CoinId=[USDT],Amount=[1080005.636886488],Price=[6.85688190836],TotalValue=[7405471.112493779]
+Day -621: transaction: Buying: Time=[2017_08_06_07:44:20],CoinId=[LTC],Amount=[11189.934107264973],Price=[330.898781061],TotalValue=[3702735.5562468893]
+Day -621: transaction: Buying: Time=[2017_08_06_07:44:20],CoinId=[XRP],Amount=[2656499.120268296],Price=[1.3938403096],TotalValue=[3702735.5562468893]
+
+Day -583: transaction: Selling: Time=[2017_09_13_07:44:20],CoinId=[XRP],Amount=[2656499.120268296],Price=[1.27389411244],TotalValue=[3384098.589011822]
+Day -583: transaction: Selling: Time=[2017_09_13_07:44:20],CoinId=[LTC],Amount=[11189.934107264973],Price=[318.184792669],TotalValue=[3560466.863899877]
+Day -583: transaction: Buying: Time=[2017_09_13_07:44:20],CoinId=[USDT],Amount=[1036640.6960051641],Price=[6.69910556249],TotalValue=[6944565.452911699]
+
+Day -552: transaction: Selling: Time=[2017_10_14_07:44:20],CoinId=[USDT],Amount=[1036640.6960051641],Price=[6.6037452863],TotalValue=[6845711.1098308535]
+Day -552: transaction: Buying: Time=[2017_10_14_07:44:20],CoinId=[ETH],Amount=[1814.0868753949733],Price=[1886.82008637],TotalValue=[3422855.5549154268]
+Day -552: transaction: Buying: Time=[2017_10_14_07:44:20],CoinId=[XRP],Amount=[2918415.631054271],Price=[1.1728471841],TotalValue=[3422855.5549154268]
+
+Day -454: transaction: Selling: Time=[2018_01_20_07:44:20],CoinId=[XRP],Amount=[2918415.631054271],Price=[20.1948424748],TotalValue=[58936943.94513504]
+Day -454: transaction: Selling: Time=[2018_01_20_07:44:20],CoinId=[ETH],Amount=[1814.0868753949733],Price=[6260.76051348],TotalValue=[11357563.477495162]
+Day -454: transaction: Buying: Time=[2018_01_20_07:44:20],CoinId=[USDT],Amount=[10723016.322230153],Price=[6.555478916589999],TotalValue=[70294507.4226302]
+
+Total Value: 68070510.29133762. Balance: cash=0.0. positions={"USDT": 10723016.322230153}
+
+
+
+3/1/2018 - 3/1/2019:
+
+Day -410: transaction: Buying: Time=[2018_03_05_07:48:35],CoinId=[USDT],Amount=[78494.39223306312],Price=[6.369881793790001],TotalValue=[500000]
+
+Day -367: transaction: Selling: Time=[2018_04_17_07:48:35],CoinId=[USDT],Amount=[78494.39223306312],Price=[6.29742934834],TotalValue=[494312.889328603]
+Day -367: transaction: Buying: Time=[2018_04_17_07:48:35],CoinId=[EOS],Amount=[6123.359538732306],Price=[40.3628830058],TotalValue=[247156.4446643015]
+Day -367: transaction: Buying: Time=[2018_04_17_07:48:35],CoinId=[XRP],Amount=[79059.10561394396],Price=[3.12622363667],TotalValue=[247156.4446643015]
+
+Day -335: transaction: Selling: Time=[2018_05_19_07:48:35],CoinId=[XRP],Amount=[79059.10561394396],Price=[5.18612864503],TotalValue=[410010.69227492687]
+Day -335: transaction: Selling: Time=[2018_05_19_07:48:35],CoinId=[EOS],Amount=[6123.359538732306],Price=[115.55235244],TotalValue=[707568.5995364313]
+Day -335: transaction: Buying: Time=[2018_05_19_07:48:35],CoinId=[USDT],Amount=[176129.98207586017],Price=[6.3451961934],TotalValue=[1117579.2918113582]
+
+Day -272: transaction: Selling: Time=[2018_07_21_07:48:35],CoinId=[USDT],Amount=[176129.98207586017],Price=[6.690051639070001],TotalValue=[1178318.6752759782]
+Day -272: transaction: Buying: Time=[2018_07_21_07:48:35],CoinId=[XRP],Amount=[200595.35224983335],Price=[2.93705378031],TotalValue=[589159.3376379891]
+Day -272: transaction: Buying: Time=[2018_07_21_07:48:35],CoinId=[EOS],Amount=[12606.96075664345],Price=[46.732860442],TotalValue=[589159.3376379891]
+
+Day -268: transaction: Selling: Time=[2018_07_25_07:48:35],CoinId=[XRP],Amount=[200595.35224983335],Price=[3.268971905],TotalValue=[655740.5707782838]
+Day -268: transaction: Selling: Time=[2018_07_25_07:48:35],CoinId=[EOS],Amount=[12606.96075664345],Price=[57.8799901262],TotalValue=[729690.7641159138]
+Day -268: transaction: Buying: Time=[2018_07_25_07:48:35],CoinId=[USDT],Amount=[207132.1110289478],Price=[6.68863619461],TotalValue=[1385431.3348941975]
+
+Day -266: transaction: Selling: Time=[2018_07_27_07:48:35],CoinId=[USDT],Amount=[207132.1110289478],Price=[6.735753330270001],TotalValue=[1395190.8066690906]
+Day -266: transaction: Buying: Time=[2018_07_27_07:48:35],CoinId=[BTC],Amount=[13.786898421043286],Price=[50598.4291775],TotalValue=[697595.4033345453]
+Day -266: transaction: Buying: Time=[2018_07_27_07:48:35],CoinId=[BCH],Amount=[134.23571716138156],Price=[5196.79425183],TotalValue=[697595.4033345453]
+
+Day -259: transaction: Selling: Time=[2018_08_03_07:48:35],CoinId=[BTC],Amount=[13.786898421043286],Price=[54023.0350507],TotalValue=[744810.0966404619]
+Day -259: transaction: Selling: Time=[2018_08_03_07:48:35],CoinId=[BCH],Amount=[134.23571716138156],Price=[5580.68114256],TotalValue=[749126.7354205399]
+Day -259: transaction: Buying: Time=[2018_08_03_07:48:35],CoinId=[USDT],Amount=[220888.31409058682],Price=[6.76331311691],TotalValue=[1493936.8320610018]
+
+Day -208: transaction: Selling: Time=[2018_09_23_07:48:35],CoinId=[USDT],Amount=[220888.31409058682],Price=[6.884077749],TotalValue=[1520612.3280451319]
+Day -208: transaction: Buying: Time=[2018_09_23_07:48:35],CoinId=[BTC],Amount=[17.39218106255372],Price=[43715.40069],TotalValue=[760306.1640225659]
+Day -208: transaction: Buying: Time=[2018_09_23_07:48:35],CoinId=[ETH],Amount=[528.6112724562012],Price=[1438.3086469],TotalValue=[760306.1640225659]
+
+Day -185: transaction: Selling: Time=[2018_10_16_07:48:35],CoinId=[BTC],Amount=[17.39218106255372],Price=[37049.681475786754],TotalValue=[644374.7685368258]
+Day -185: transaction: Selling: Time=[2018_10_16_07:48:35],CoinId=[ETH],Amount=[528.6112724562012],Price=[1195.659486835381],TotalValue=[632039.0827603792]
+Day -185: transaction: Buying: Time=[2018_10_16_07:48:35],CoinId=[USDT],Amount=[186565.17381210637],Price=[6.841651232200001],TotalValue=[1276413.8512972048]
+
+Day -162: transaction: Selling: Time=[2018_11_08_07:48:35],CoinId=[USDT],Amount=[186565.17381210637],Price=[6.813186828],TotalValue=[1271103.3847801737]
+Day -162: transaction: Buying: Time=[2018_11_08_07:48:35],CoinId=[BCH],Amount=[189.06021998123563],Price=[3361.636268344371],TotalValue=[635551.6923900868]
+Day -162: transaction: Buying: Time=[2018_11_08_07:48:35],CoinId=[XMR],Amount=[962.3002016235271],Price=[660.4505447653731],TotalValue=[635551.6923900868]
+
+Day -154: transaction: Selling: Time=[2018_11_16_07:48:35],CoinId=[XMR],Amount=[962.3002016235271],Price=[665.3589558335824],TotalValue=[640275.0573506758]
+Day -154: transaction: Selling: Time=[2018_11_16_07:48:35],CoinId=[BCH],Amount=[189.06021998123563],Price=[3177.3928369342993],TotalValue=[600718.588717601]
+Day -154: transaction: Buying: Time=[2018_11_16_07:48:35],CoinId=[USDT],Amount=[179493.90699977535],Price=[6.913848312799999],TotalValue=[1240993.6460682768]
+
+Day -114: transaction: Selling: Time=[2018_12_26_07:48:35],CoinId=[USDT],Amount=[179493.90699977535],Price=[7.1290318184504],TotalValue=[1279617.7742193756]
+Day -114: transaction: Buying: Time=[2018_12_26_07:48:35],CoinId=[BTC],Amount=[24.805989148459933],Price=[25792.516608812995],TotalValue=[639808.8871096878]
+Day -114: transaction: Buying: Time=[2018_12_26_07:48:35],CoinId=[BCH],Amount=[555.7382342392183],Price=[1151.2774318750241],TotalValue=[639808.8871096878]
+
+Day -96: transaction: Selling: Time=[2019_01_13_07:48:35],CoinId=[BTC],Amount=[24.805989148459933],Price=[24494.62024222693],TotalValue=[607613.2839243283]
+Day -96: transaction: Selling: Time=[2019_01_13_07:48:35],CoinId=[BCH],Amount=[555.7382342392183],Price=[883.4413774987217],TotalValue=[490962.1511850023]
+Day -96: transaction: Buying: Time=[2019_01_13_07:48:35],CoinId=[USDT],Amount=[159094.14309361685],Price=[6.9051909375626],TotalValue=[1098575.4351093306]
+
+Day -60: transaction: Selling: Time=[2019_02_18_07:48:35],CoinId=[USDT],Amount=[159094.14309361685],Price=[6.7471534902777],TotalValue=[1073432.6028568367]
+Day -60: transaction: Buying: Time=[2019_02_18_07:48:35],CoinId=[BTC],Amount=[20.886056076650465],Price=[25697.350397734474],TotalValue=[536716.3014284184]
+Day -60: transaction: Buying: Time=[2019_02_18_07:48:35],CoinId=[ETH],Amount=[553.2429632037685],Price=[970.1276602242783],TotalValue=[536716.3014284184]
+
+Total Value: 1085918.266529843. Balance: cash=0.0. positions={"BTC": 20.886056076650465, "ETH": 553.2429632037685}

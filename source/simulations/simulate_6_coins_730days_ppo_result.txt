@@ -1,0 +1,1521 @@
+Date 0
+Buying BTC with Amount 14.985380829981121 and price 6673.17041419
+Date 1
+Date 2
+Date 3
+Date 4
+Date 5
+Date 6
+Date 7
+Selling BTC with Amount 14.985380829981121 and price 7307.33019681
+Balance: 109503.12584961875
+Buying ZEC with Amount 490.5470388148201 and price 223.226555631
+Date 8
+Date 9
+Selling ZEC with Amount 490.5470388148201 and price 211.678564408
+Balance: 103838.29295091657
+Buying USDT with Amount 15074.166824148766 and price 6.88849302003
+Date 10
+Selling USDT with Amount 15074.166824148766 and price 6.8830930255
+Balance: 103756.89253252186
+Buying ETH with Amount 1322.7903205151197 and price 78.4378982242
+Date 11
+Date 12
+Date 13
+Date 14
+Date 15
+Date 16
+Date 17
+Selling ETH with Amount 1322.7903205151197 and price 87.6381371814
+Balance: 115926.87957153213
+Buying BTC with Amount 16.018144236206492 and price 7237.22285566
+Date 18
+Selling BTC with Amount 16.018144236206492 and price 7197.81899648
+Balance: 115295.70287172371
+Buying ZEC with Amount 466.8566122151064 and price 246.961700563
+Date 19
+Date 20
+Date 21
+Date 22
+Date 23
+Selling ZEC with Amount 466.8566122151064 and price 287.179185378
+Balance: 134071.5015842671
+Buying ETH with Amount 1343.4757086748214 and price 99.7945111464
+Date 24
+Date 25
+Date 26
+Date 27
+Date 28
+Date 29
+Date 30
+Selling ETH with Amount 1343.4757086748214 and price 133.295889654
+Balance: 179079.78981634844
+Buying XRP with Amount 4230922.47871639 and price 0.0423264171625
+Date 31
+Selling XRP with Amount 4230922.47871639 and price 0.0417741781924
+Balance: 176743.30954412918
+Buying ZEC with Amount 636.425052944123 and price 277.712683884
+Date 32
+Date 33
+Date 34
+Date 35
+Date 36
+Date 37
+Selling ZEC with Amount 636.425052944123 and price 442.997475032
+Balance: 281934.6915013534
+Buying ETH with Amount 1739.3161822264854 and price 162.095135078
+Date 38
+Date 39
+Selling ETH with Amount 1739.3161822264854 and price 198.109309011
+Balance: 344574.7270125396
+Buying ZEC with Amount 688.1560726423128 and price 500.721770411
+Date 40
+Selling ZEC with Amount 688.1560726423128 and price 458.780127662
+Balance: 315712.3308582208
+Buying ETH with Amount 1302.701798649981 and price 242.351957436
+Date 41
+Date 42
+Date 43
+Date 44
+Date 45
+Date 46
+Selling ETH with Amount 1302.701798649981 and price 291.41949111
+Balance: 379632.69523065916
+Buying XRP with Amount 7555072.150051184 and price 0.0502487187006
+Date 47
+Date 48
+Date 49
+Date 50
+Selling XRP with Amount 7555072.150051184 and price 0.0657223257001
+Balance: 496536.91253341874
+Buying ETH with Amount 1427.4193703314068 and price 347.856364327
+Date 51
+Selling ETH with Amount 1427.4193703314068 and price 341.509608765
+Balance: 487477.43070546136
+Buying ZEC with Amount 1095.0475148440214 and price 445.165551355
+Date 52
+Date 53
+Selling ZEC with Amount 1095.0475148440214 and price 436.9131625
+Balance: 478440.6727982671
+Buying BTC with Amount 66.40668640972922 and price 7204.70631295
+Date 54
+Selling BTC with Amount 66.40668640972922 and price 7166.43306809
+Balance: 475899.0734289663
+Buying LTC with Amount 9895.81236184319 and price 48.0909556515
+Date 55
+Selling LTC with Amount 9895.81236184319 and price 45.9500435256
+Balance: 454713.0087478651
+Buying XRP with Amount 3158361.9874960715 and price 0.143971150409
+Date 56
+Date 57
+Date 58
+Date 59
+Date 60
+Selling XRP with Amount 3158361.9874960715 and price 0.24514686036
+Balance: 774262.5251150315
+Buying LTC with Amount 10119.199412289307 and price 76.5142076531
+Date 61
+Date 62
+Date 63
+Selling LTC with Amount 10119.199412289307 and price 60.1476132946
+Balance: 608645.6931013208
+Buying BTC with Amount 74.95805715281884 and price 8119.81681783
+Date 64
+Selling BTC with Amount 74.95805715281884 and price 8203.0738253
+Balance: 614886.4766256297
+Buying ZEC with Amount 1255.0539276370025 and price 489.928331433
+Date 65
+Date 66
+Date 67
+Date 68
+Selling ZEC with Amount 1255.0539276370025 and price 493.958371237
+Balance: 619944.3939101734
+Buying LTC with Amount 8667.800984118941 and price 71.5226843632
+Date 69
+Selling LTC with Amount 8667.800984118941 and price 74.307864266
+Balance: 644085.7790126115
+Buying ETH with Amount 1905.5515140085008 and price 338.004915783
+Date 70
+Selling ETH with Amount 1905.5515140085008 and price 335.558400259
+Balance: 639423.8176518079
+Buying LTC with Amount 8664.159993739488 and price 73.8010168457
+Date 71
+Date 72
+Selling LTC with Amount 8664.159993739488 and price 71.0136389443
+Balance: 615273.5295510645
+Buying ETH with Amount 1763.3485239148392 and price 348.9233814
+Date 73
+Selling ETH with Amount 1763.3485239148392 and price 332.190729029
+Balance: 585768.0316914815
+Buying BTC with Amount 70.25600102076938 and price 8337.62273942
+Date 74
+Date 75
+Date 76
+Selling BTC with Amount 70.25600102076938 and price 8414.18120121
+Balance: 591146.7230611482
+Buying LTC with Amount 6571.67839340329 and price 89.9536903167
+Date 77
+Date 78
+Date 79
+Date 80
+Selling LTC with Amount 6571.67839340329 and price 102.356860151
+Balance: 672656.366270929
+Buying ZEC with Amount 1046.920684122712 and price 642.50938631
+Date 81
+Date 82
+Selling ZEC with Amount 1046.920684122712 and price 633.204690437
+Balance: 662915.087702014
+Buying XRP with Amount 1818645.350700225 and price 0.364510368911
+Date 83
+Date 84
+Date 85
+Date 86
+Selling XRP with Amount 1818645.350700225 and price 0.41727212485
+Balance: 758870.0098352563
+Buying LTC with Amount 5227.959271524626 and price 145.156067678
+Date 87
+Date 88
+Date 89
+Selling LTC with Amount 5227.959271524626 and price 194.285721193
+Balance: 1015717.8374357929
+Buying XRP with Amount 1446279.9519813664 and price 0.702296838205
+Date 90
+Date 91
+Date 92
+Date 93
+Date 94
+Date 95
+Date 96
+Date 97
+Date 98
+Date 99
+Date 100
+Date 101
+Date 102
+Selling XRP with Amount 1446279.9519813664 and price 2.42085940729
+Balance: 3501240.42732902
+Buying ZEC with Amount 2502.303404940066 and price 1399.20699481
+Date 103
+Date 104
+Date 105
+Date 106
+Selling ZEC with Amount 2502.303404940066 and price 1357.89216951
+Balance: 3397858.199306326
+Buying ETH with Amount 2595.128105127789 and price 1309.32195316
+Date 107
+Selling ETH with Amount 2595.128105127789 and price 1197.90323154
+Balance: 3108712.343392855
+Buying LTC with Amount 15140.691931064166 and price 205.321682625
+Date 108
+Selling LTC with Amount 15140.691931064166 and price 162.965588051
+Balance: 2467411.7640449028
+Buying BTC with Amount 155.88838230818817 and price 15828.0670279
+Date 109
+Date 110
+Selling BTC with Amount 155.88838230818817 and price 13991.1336805
+Balance: 2181055.1961107515
+Buying ZEC with Amount 1364.4773781984563 and price 1598.45463982
+Date 111
+Date 112
+Selling ZEC with Amount 1364.4773781984563 and price 1697.24321521
+Balance: 2315849.9724548594
+Buying ETH with Amount 1455.146514972522 and price 1591.4892065
+Date 113
+Date 114
+Date 115
+Selling ETH with Amount 1455.146514972522 and price 1524.31050342
+Balance: 2218095.1167876236
+Buying XRP with Amount 1073084.7180031491 and price 2.06702702925
+Date 116
+Date 117
+Date 118
+Selling XRP with Amount 1073084.7180031491 and price 2.00039647865
+Balance: 2146594.8911866276
+Buying BTC with Amount 125.44414793968267 and price 17111.9572052
+Date 119
+Selling BTC with Amount 125.44414793968267 and price 18281.0556386
+Balance: 2293251.448022108
+Buying ETH with Amount 1276.160053100125 and price 1796.99360002
+Date 120
+Date 121
+Selling ETH with Amount 1276.160053100125 and price 1915.33264378
+Balance: 2444271.0083906874
+Buying ZEC with Amount 1093.951891144402 and price 2234.34963473
+Date 122
+Date 123
+Selling ZEC with Amount 1093.951891144402 and price 2117.38833076
+Balance: 2316320.9687219905
+Buying ETH with Amount 1001.1523563090991 and price 2313.654814
+Date 124
+Date 125
+Date 126
+Date 127
+Selling ETH with Amount 1001.1523563090991 and price 2464.11234534
+Balance: 2466951.8807474817
+Buying ZEC with Amount 934.3529016842435 and price 2640.27850323
+Date 128
+Date 129
+Selling ZEC with Amount 934.3529016842435 and price 2566.06528563
+Balance: 2397610.5455395975
+Buying LTC with Amount 7384.141049808964 and price 324.69728427
+Date 130
+Date 131
+Date 132
+Date 133
+Selling LTC with Amount 7384.141049808964 and price 326.350384579
+Balance: 2409817.271390736
+Buying XRP with Amount 1190654.8721674182 and price 2.0239427291
+Date 134
+Date 135
+Selling XRP with Amount 1190654.8721674182 and price 2.18733760155
+Balance: 2604364.172360502
+Buying BTC with Amount 140.84132963902363 and price 18491.4767493
+Date 136
+Date 137
+Selling BTC with Amount 140.84132963902363 and price 17832.9488477
+Balance: 2511616.2270947625
+Buying XRP with Amount 1231334.723827139 and price 2.03975099418
+Date 138
+Selling XRP with Amount 1231334.723827139 and price 1.89703805379
+Balance: 2335888.828053083
+Buying USDT with Amount 334844.74154043477 and price 6.97603557191
+Date 139
+Date 140
+Date 141
+Selling USDT with Amount 334844.74154043477 and price 6.86087188171
+Balance: 2297326.871973221
+Buying ETH with Amount 1149.0857510613905 and price 1999.26495464
+Date 142
+Date 143
+Selling ETH with Amount 1149.0857510613905 and price 1952.58065539
+Balance: 2243682.6089067603
+Buying USDT with Amount 329052.1821156815 and price 6.81862248863
+Date 144
+Selling USDT with Amount 329052.1821156815 and price 6.91447902961
+Balance: 2275224.4128862903
+Buying LTC with Amount 7216.561496195894 and price 315.278185336
+Date 145
+Date 146
+Date 147
+Date 148
+Date 149
+Selling LTC with Amount 7216.561496195894 and price 354.828563204
+Balance: 2560642.1469684974
+Buying BTC with Amount 149.38924119979538 and price 17140.7400319
+Date 150
+Selling BTC with Amount 149.38924119979538 and price 17499.2549681
+Balance: 2614200.4212462083
+Buying USDT with Amount 381085.6690972966 and price 6.8598759629
+Date 151
+Date 152
+Date 153
+Date 154
+Date 155
+Date 156
+Date 157
+Date 158
+Date 159
+Selling USDT with Amount 381085.6690972966 and price 6.77591027164
+Balance: 2582202.299611174
+Buying ZEC with Amount 1916.6738252007467 and price 1347.23095065
+Date 160
+Selling ZEC with Amount 1916.6738252007467 and price 1228.7512223
+Balance: 2355115.305465834
+Buying ETH with Amount 1746.6326651592374 and price 1348.37470548
+Date 161
+Date 162
+Selling ETH with Amount 1746.6326651592374 and price 1553.16239676
+Balance: 2712804.176478028
+Buying BTC with Amount 150.24225281870363 and price 18056.2000741
+Date 163
+Date 164
+Date 165
+Date 166
+Date 167
+Selling BTC with Amount 150.24225281870363 and price 17079.3519603
+Balance: 2566040.315199014
+Buying USDT with Amount 380212.5103800231 and price 6.74896339585
+Date 168
+Date 169
+Date 170
+Selling USDT with Amount 380212.5103800231 and price 6.75668266479
+Balance: 2568975.27782099
+Buying BTC with Amount 139.72386584317493 and price 18386.0878907
+Date 171
+Date 172
+Date 173
+Selling BTC with Amount 139.72386584317493 and price 18261.2707456
+Balance: 2551535.343784109
+Buying ETH with Amount 1725.8676107454012 and price 1478.40734011
+Date 174
+Date 175
+Date 176
+Date 177
+Date 178
+Date 179
+Date 180
+Date 181
+Selling ETH with Amount 1725.8676107454012 and price 2059.35081116
+Balance: 3554166.864143313
+Buying ZEC with Amount 2192.657475908538 and price 1620.94029879
+Date 182
+Date 183
+Selling ZEC with Amount 2192.657475908538 and price 1488.89275337
+Balance: 3264631.8265027776
+Buying BTC with Amount 126.04121664210426 and price 25901.3036646
+Date 184
+Date 185
+Date 186
+Date 187
+Date 188
+Date 189
+Selling BTC with Amount 126.04121664210426 and price 27796.2708789
+Balance: 3503475.7996900487
+Buying LTC with Amount 11530.554679720433 and price 303.842780942
+Date 190
+Date 191
+Selling LTC with Amount 11530.554679720433 and price 318.184792669
+Balance: 3668847.1501254137
+Buying ZEC with Amount 2280.715569858446 and price 1608.63862141
+Date 192
+Selling ZEC with Amount 2280.715569858446 and price 1586.78869428
+Balance: 3619013.68111975
+Buying XRP with Amount 2270153.683935817 and price 1.59417122582
+Date 193
+Date 194
+Date 195
+Date 196
+Selling XRP with Amount 2270153.683935817 and price 1.41350950553
+Balance: 3208883.8112572245
+Buying BTC with Amount 110.3903489522399 and price 29068.5176894
+Date 197
+Selling BTC with Amount 110.3903489522399 and price 28940.8479106
+Balance: 3194790.299824837
+Buying ZEC with Amount 1630.6004925611517 and price 1959.2722524
+Date 198
+Date 199
+Selling ZEC with Amount 1630.6004925611517 and price 1814.83289302
+Balance: 2959267.409274592
+Buying LTC with Amount 7101.457250893985 and price 416.712697792
+Date 200
+Date 201
+Date 202
+Date 203
+Date 204
+Selling LTC with Amount 7101.457250893985 and price 425.819975372
+Balance: 3023942.351680987
+Buying BTC with Amount 100.74863976844392 and price 30014.7213762
+Date 205
+Selling BTC with Amount 100.74863976844392 and price 27664.7992066
+Balance: 2787190.8895320767
+Buying USDT with Amount 424630.3593935583 and price 6.56380503154
+Date 206
+Date 207
+Selling USDT with Amount 424630.3593935583 and price 6.56736307769
+Balance: 2788701.7439474897
+Buying LTC with Amount 5476.7363297129405 and price 509.190433145
+Date 208
+Date 209
+Selling LTC with Amount 5476.7363297129405 and price 426.775247215
+Balance: 2337335.501044612
+Buying BTC with Amount 85.4896710115738 and price 27340.56025
+Date 210
+Selling BTC with Amount 85.4896710115738 and price 27323.1687028
+Balance: 2335848.703396102
+Buying USDT with Amount 358812.24670614453 and price 6.50994698436
+Date 211
+Date 212
+Date 213
+Date 214
+Date 215
+Date 216
+Date 217
+Date 218
+Selling USDT with Amount 358812.24670614453 and price 6.55551931768
+Balance: 2352200.6147022923
+Buying ETH with Amount 1218.9933700955269 and price 1929.62543719
+Date 219
+Date 220
+Date 221
+Selling ETH with Amount 1218.9933700955269 and price 1742.70153791
+Balance: 2124341.6207675687
+Buying BTC with Amount 82.73220328560728 and price 25677.324384
+Date 222
+Selling BTC with Amount 82.73220328560728 and price 23938.657058
+Balance: 1980497.8421068937
+Buying ZEC with Amount 1533.7504106061915 and price 1291.27779097
+Date 223
+Date 224
+Date 225
+Date 226
+Date 227
+Date 228
+Date 229
+Date 230
+Date 231
+Selling ZEC with Amount 1533.7504106061915 and price 1752.61455602
+Balance: 2688073.294930063
+Buying BTC with Amount 91.92736110791967 and price 29241.2755303
+Date 232
+Date 233
+Selling BTC with Amount 91.92736110791967 and price 28677.9972743
+Balance: 2636292.611286512
+Buying XRP with Amount 1847574.2388632917 and price 1.42689400828
+Date 234
+Date 235
+Date 236
+Date 237
+Date 238
+Date 239
+Date 240
+Selling XRP with Amount 1847574.2388632917 and price 1.74156872302
+Balance: 3217677.5078617916
+Buying BTC with Amount 102.15803718885557 and price 31497.0568778
+Date 241
+Date 242
+Selling BTC with Amount 102.15803718885557 and price 37158.076822
+Balance: 3795996.1938482285
+Buying LTC with Amount 9021.20545482185 and price 420.785915237
+Date 243
+Date 244
+Date 245
+Selling LTC with Amount 9021.20545482185 and price 393.935365507
+Balance: 3553771.8681589873
+Buying BTC with Amount 94.18832578837748 and price 37730.4919523
+Date 246
+Date 247
+Selling BTC with Amount 94.18832578837748 and price 37047.2659657
+Balance: 3489419.9563460206
+Buying USDT with Amount 527206.594536416 and price 6.61869557875
+Date 248
+Date 249
+Selling USDT with Amount 527206.594536416 and price 6.61876512453
+Balance: 3489456.621339859
+Buying BTC with Amount 87.70391441341484 and price 39786.7831177
+Date 250
+Date 251
+Date 252
+Date 253
+Selling BTC with Amount 87.70391441341484 and price 36673.6786192
+Balance: 3216425.170843398
+Buying USDT with Amount 486077.8517352727 and price 6.61709880292
+Date 254
+Selling USDT with Amount 486077.8517352727 and price 6.65404870946
+Balance: 3234385.70203618
+Buying ETH with Amount 1642.061624964702 and price 1969.71030372
+Date 255
+Selling ETH with Amount 1642.061624964702 and price 1979.08241191
+Balance: 3249775.2812399967
+Buying ZEC with Amount 2093.6625649386806 and price 1552.19629737
+Date 256
+Date 257
+Date 258
+Date 259
+Selling ZEC with Amount 2093.6625649386806 and price 1603.83683441
+Balance: 3357893.1404739744
+Buying BTC with Amount 82.38072225289282 and price 40760.6664356
+Date 260
+Date 261
+Date 262
+Date 263
+Date 264
+Date 265
+Date 266
+Selling BTC with Amount 82.38072225289282 and price 47421.5359101
+Balance: 3906620.378615531
+Buying LTC with Amount 9419.142689881111 and price 414.753285648
+Date 267
+Date 268
+Selling LTC with Amount 9419.142689881111 and price 392.793729569
+Balance: 3699780.1865009842
+Buying ZEC with Amount 2126.5175890264577 and price 1739.83051238
+Date 269
+Date 270
+Date 271
+Date 272
+Date 273
+Date 274
+Selling ZEC with Amount 2126.5175890264577 and price 1925.34181917
+Balance: 4094273.2433532025
+Buying BTC with Amount 84.46288109230042 and price 48474.2314068
+Date 275
+Date 276
+Date 277
+Date 278
+Date 279
+Selling BTC with Amount 84.46288109230042 and price 54412.0641314
+Balance: 4595799.702717063
+Buying ETH with Amount 1923.3934213561668 and price 2389.42259638
+Date 280
+Date 281
+Date 282
+Date 283
+Date 284
+Selling ETH with Amount 1923.3934213561668 and price 3168.99807848
+Balance: 6095230.0564387655
+Buying LTC with Amount 10086.074704243327 and price 604.321327689
+Date 285
+Date 286
+Selling LTC with Amount 10086.074704243327 and price 565.701318251
+Balance: 5705705.7561685145
+Buying BTC with Amount 85.83938552136256 and price 66469.5549894
+Date 287
+Date 288
+Date 289
+Date 290
+Selling BTC with Amount 85.83938552136256 and price 73228.5749972
+Balance: 6285895.880364662
+Buying LTC with Amount 9377.02259228986 and price 670.350936931
+Date 291
+Date 292
+Selling LTC with Amount 9377.02259228986 and price 677.755524308
+Balance: 6355328.863485375
+Buying BTC with Amount 82.35544999850185 and price 77169.4995729
+Date 293
+Date 294
+Date 295
+Date 296
+Date 297
+Selling BTC with Amount 82.35544999850185 and price 100443.257612
+Balance: 8272049.679951707
+Buying LTC with Amount 8405.95861611058 and price 984.069760241
+Date 298
+Date 299
+Date 300
+Date 301
+Selling LTC with Amount 8405.95861611058 and price 1977.91180933
+Balance: 16626244.81554438
+Buying XRP with Amount 3332442.619768818 and price 4.98920663087
+Date 302
+Date 303
+Date 304
+Date 305
+Selling XRP with Amount 3332442.619768818 and price 5.22641089368
+Balance: 17416714.410523266
+Buying ZEC with Amount 4415.421474634336 and price 3944.51911569
+Date 306
+Date 307
+Date 308
+Selling ZEC with Amount 4415.421474634336 and price 4290.43921523
+Balance: 18944097.446539827
+Buying XRP with Amount 2531638.5918615265 and price 7.48293911597
+Date 309
+Date 310
+Date 311
+Date 312
+Selling XRP with Amount 2531638.5918615265 and price 7.78735287451
+Balance: 19714763.065553308
+Buying USDT with Amount 2929472.996696422 and price 6.72979852956
+Date 313
+Selling USDT with Amount 2929472.996696422 and price 6.61956460943
+Balance: 19391835.77321248
+Buying XRP with Amount 2113505.5532575385 and price 9.17519982066
+Date 314
+Date 315
+Date 316
+Date 317
+Date 318
+Date 319
+Date 320
+Date 321
+Selling XRP with Amount 2113505.5532575385 and price 19.7791165664
+Balance: 41803272.70161457
+Buying ETH with Amount 6458.1906069053475 and price 6472.90785393
+Date 322
+Selling ETH with Amount 6458.1906069053475 and price 6758.10768445
+Balance: 43645147.56816984
+Buying XRP with Amount 2174348.2344868486 and price 20.0727495605
+Date 323
+Selling XRP with Amount 2174348.2344868486 and price 21.9078001069
+Balance: 47635186.483928815
+Buying ETH with Amount 6368.995840161687 and price 7479.23027105
+Date 324
+Selling ETH with Amount 6368.995840161687 and price 7465.78974946
+Balance: 47549583.85783251
+Buying ZEC with Amount 8323.86635915259 and price 5712.43960513
+Date 325
+Date 326
+Selling ZEC with Amount 8323.86635915259 and price 4393.68316808
+Balance: 36572431.51555608
+Buying ETH with Amount 4473.892031398917 and price 8174.63435838
+Date 327
+Date 328
+Date 329
+Date 330
+Date 331
+Date 332
+Selling ETH with Amount 4473.892031398917 and price 6791.34777937
+Balance: 30383756.71258218
+Buying USDT with Amount 4639525.511174421 and price 6.54889312267
+Date 333
+Date 334
+Date 335
+Date 336
+Selling USDT with Amount 4639525.511174421 and price 6.56816178395
+Balance: 30473154.15815692
+Buying XRP with Amount 3014549.405763127 and price 10.1086928945
+Date 337
+Date 338
+Selling XRP with Amount 3014549.405763127 and price 8.69559125247
+Balance: 26213289.442892484
+Buying BTC with Amount 353.7875043913143 and price 74093.3162351
+Date 339
+Date 340
+Selling BTC with Amount 353.7875043913143 and price 69609.9308217
+Balance: 24627123.706261277
+Buying USDT with Amount 3824926.123661998 and price 6.43858806943
+Date 341
+Date 342
+Selling USDT with Amount 3824926.123661998 and price 6.35397326052
+Balance: 24303478.313212752
+Buying ETH with Amount 3476.101990590265 and price 6991.5895388
+Date 343
+Date 344
+Date 345
+Date 346
+Date 347
+Selling ETH with Amount 3476.101990590265 and price 6532.81403612
+Balance: 22708727.875112757
+Buying USDT with Amount 3640590.418984959 and price 6.23764973854
+Date 348
+Date 349
+Date 350
+Date 351
+Date 352
+Date 353
+Date 354
+Date 355
+Selling USDT with Amount 3640590.418984959 and price 6.27897824175
+Balance: 22859188.027930073
+Buying ZEC with Amount 8287.712768033722 and price 2758.20225287
+Date 356
+Selling ZEC with Amount 8287.712768033722 and price 2992.99872373
+Balance: 24805113.737365756
+Buying XRP with Amount 3682162.926166126 and price 6.73656061254
+Date 357
+Selling XRP with Amount 3682162.926166126 and price 6.31526294895
+Balance: 23253827.09961425
+Buying ZEC with Amount 7645.687032900425 and price 3041.43067844
+Date 358
+Selling ZEC with Amount 7645.687032900425 and price 2730.46301178
+Balance: 20876265.642980587
+Buying XRP with Amount 3051804.007126519 and price 6.84063117888
+Date 359
+Date 360
+Selling XRP with Amount 3051804.007126519 and price 7.24803147158
+Balance: 22119571.488746963
+Buying LTC with Amount 16329.288748843166 and price 1354.59491402
+Date 361
+Date 362
+Date 363
+Date 364
+Selling LTC with Amount 16329.288748843166 and price 1416.36738201
+Balance: 23128271.955284346
+Buying BTC with Amount 345.7495601459306 and price 66893.1348619
+Date 365
+Date 366
+Date 367
+Date 368
+Selling BTC with Amount 345.7495601459306 and price 63541.755
+Balance: 21969533.842150487
+Buying USDT with Amount 3456307.5043425243 and price 6.35635973204
+Date 369
+Date 370
+Date 371
+Selling USDT with Amount 3456307.5043425243 and price 6.35429535882
+Balance: 21962398.73349844
+Buying LTC with Amount 15737.927949742754 and price 1395.50764266
+Date 372
+Date 373
+Selling LTC with Amount 15737.927949742754 and price 1284.50798255
+Balance: 20215494.080241323
+Buying BTC with Amount 298.42918106114547 and price 67739.6694531
+Date 374
+Date 375
+Date 376
+Date 377
+Date 378
+Date 379
+Date 380
+Date 381
+Selling BTC with Amount 298.42918106114547 and price 63047.180582
+Balance: 18815118.46930041
+Buying USDT with Amount 2980162.003817143 and price 6.31345492131
+Date 382
+Date 383
+Date 384
+Date 385
+Date 386
+Date 387
+Date 388
+Date 389
+Date 390
+Date 391
+Date 392
+Selling USDT with Amount 2980162.003817143 and price 6.35140231792
+Balance: 18928207.858821314
+Buying XRP with Amount 4210081.979041877 and price 4.49592382121
+Date 393
+Date 394
+Selling XRP with Amount 4210081.979041877 and price 4.19807908421
+Balance: 17674257.09902515
+Buying ZEC with Amount 10747.404800574894 and price 1644.51394797
+Date 395
+Selling ZEC with Amount 10747.404800574894 and price 1578.91888845
+Balance: 16969280.441445906
+Buying BTC with Amount 306.916214293213 and price 55289.6186359
+Date 396
+Date 397
+Selling BTC with Amount 306.916214293213 and price 54753.0475322
+Balance: 16804598.06959917
+Buying USDT with Amount 2686621.5486150486 and price 6.25491821811
+Date 398
+Date 399
+Date 400
+Date 401
+Date 402
+Date 403
+Date 404
+Date 405
+Selling USDT with Amount 2686621.5486150486 and price 6.29070441563
+Balance: 16900742.038999394
+Buying LTC with Amount 19965.386908599034 and price 846.502104686
+Date 406
+Date 407
+Date 408
+Selling LTC with Amount 19965.386908599034 and price 712.797283809
+Balance: 14231273.558645157
+Buying ZEC with Amount 12226.02573623903 and price 1164.01469011
+Date 409
+Selling ZEC with Amount 12226.02573623903 and price 1106.36492921
+Balance: 13526446.098193731
+Buying USDT with Amount 2139802.524579647 and price 6.32135252801
+Date 410
+Date 411
+Selling USDT with Amount 2139802.524579647 and price 6.29705733239
+Balance: 13474459.177270899
+Buying ETH with Amount 5357.939344423321 and price 2514.85847657
+Date 412
+Date 413
+Date 414
+Date 415
+Selling ETH with Amount 5357.939344423321 and price 3090.53237512
+Balance: 16558885.0078695
+Buying XRP with Amount 4137436.2263919865 and price 4.00220912222
+Date 416
+Date 417
+Selling XRP with Amount 4137436.2263919865 and price 4.28767845869
+Balance: 17739996.182104565
+Buying ZEC with Amount 12738.320680748295 and price 1392.64794997
+Date 418
+Date 419
+Date 420
+Selling ZEC with Amount 12738.320680748295 and price 1394.12284384
+Balance: 17758783.853190698
+Buying LTC with Amount 20217.260575197964 and price 878.397139273
+Date 421
+Selling LTC with Amount 20217.260575197964 and price 978.141101718
+Balance: 19775333.532744024
+Buying XRP with Amount 3401461.502338012 and price 5.81377549596
+Date 422
+Date 423
+Date 424
+Selling XRP with Amount 3401461.502338012 and price 5.53845598655
+Balance: 18838844.82064332
+Buying ZEC with Amount 10957.498320333832 and price 1719.26513424
+Date 425
+Selling ZEC with Amount 10957.498320333832 and price 1880.3054625
+Balance: 20603443.94705828
+Buying ETH with Amount 4612.816242359668 and price 4466.56507967
+Date 426
+Selling ETH with Amount 4612.816242359668 and price 3893.55250605
+Balance: 17960242.24038763
+Buying ZEC with Amount 8907.948685972791 and price 2016.20405253
+Date 427
+Date 428
+Date 429
+Selling ZEC with Amount 8907.948685972791 and price 1793.85482132
+Balance: 15979566.69840345
+Buying ETH with Amount 3692.1164843153206 and price 4328.023443
+Date 430
+Date 431
+Date 432
+Selling ETH with Amount 3692.1164843153206 and price 4266.86667435
+Balance: 15753768.784743326
+Buying BTC with Amount 269.1290650604508 and price 58536.1108478
+Date 433
+Selling BTC with Amount 269.1290650604508 and price 57762.5435584
+Balance: 15545579.343385756
+Buying ETH with Amount 3555.1106968182835 and price 4372.7412925
+Date 434
+Date 435
+Date 436
+Date 437
+Selling ETH with Amount 3555.1106968182835 and price 5041.47472833
+Balance: 17923000.734425034
+Buying LTC with Amount 16395.53649163859 and price 1093.16341942
+Date 438
+Date 439
+Selling LTC with Amount 16395.53649163859 and price 1016.9837818
+Balance: 16673994.705906518
+Buying BTC with Amount 279.42151713150275 and price 59673.2666728
+Date 440
+Selling BTC with Amount 279.42151713150275 and price 58838.7341391
+Balance: 16440808.359244468
+Buying USDT with Amount 2589548.3752673604 and price 6.34890953043
+Date 441
+Date 442
+Date 443
+Date 444
+Date 445
+Selling USDT with Amount 2589548.3752673604 and price 6.35348194311
+Balance: 16452648.843071014
+Buying ZEC with Amount 8318.76350534225 and price 1977.77576349
+Date 446
+Date 447
+Date 448
+Date 449
+Date 450
+Selling ZEC with Amount 8318.76350534225 and price 2199.03027466
+Balance: 18293212.79598435
+Buying ETH with Amount 4013.3269279520127 and price 4558.11677553
+Date 451
+Date 452
+Selling ETH with Amount 4013.3269279520127 and price 4125.00918754
+Balance: 16555010.450403737
+Buying BTC with Amount 308.0762484615933 and price 53736.730868
+Date 453
+Date 454
+Selling BTC with Amount 308.0762484615933 and price 48299.0033687
+Balance: 14879775.762262955
+Buying USDT with Amount 2329619.2052646894 and price 6.38721372516
+Date 455
+Date 456
+Date 457
+Date 458
+Date 459
+Date 460
+Date 461
+Selling USDT with Amount 2329619.2052646894 and price 6.42356486208
+Balance: 14964460.068964994
+Buying XRP with Amount 3740938.3113453407 and price 4.00018894286
+Date 462
+Date 463
+Date 464
+Date 465
+Date 466
+Date 467
+Date 468
+Date 469
+Selling XRP with Amount 3740938.3113453407 and price 4.22421328428
+Balance: 15802521.31045698
+Buying BTC with Amount 323.68900253509526 and price 48820.0747838
+Date 470
+Date 471
+Selling BTC with Amount 323.68900253509526 and price 43437.314145
+Balance: 14060180.888398632
+Buying USDT with Amount 2182705.915602816 and price 6.44162861698
+Date 472
+Date 473
+Date 474
+Date 475
+Date 476
+Selling USDT with Amount 2182705.915602816 and price 6.42738829378
+Balance: 14029098.450709894
+Buying ETH with Amount 4363.711408964349 and price 3214.946438
+Date 477
+Selling ETH with Amount 4363.711408964349 and price 3221.63398743
+Balance: 14058280.9864556
+Buying USDT with Amount 2169749.010591059 and price 6.47921990877
+Date 478
+Selling USDT with Amount 2169749.010591059 and price 6.46178251171
+Balance: 14020446.21143738
+Buying ETH with Amount 4194.939127026434 and price 3342.22876349
+Date 479
+Date 480
+Date 481
+Selling ETH with Amount 4194.939127026434 and price 3030.04633108
+Balance: 12710859.910950385
+Buying BTC with Amount 289.8464951205493 and price 43853.7644061
+Date 482
+Selling BTC with Amount 289.8464951205493 and price 39573.1863309
+Balance: 11470149.358763795
+Buying USDT with Amount 1774515.0304812186 and price 6.46382203686
+Date 483
+Date 484
+Date 485
+Date 486
+Date 487
+Selling USDT with Amount 1774515.0304812186 and price 6.58318481766
+Balance: 11681960.40737343
+Buying BTC with Amount 287.20518192809806 and price 40674.6157188
+Date 488
+Selling BTC with Amount 287.20518192809806 and price 39122.0964917
+Balance: 11236068.840307306
+Buying USDT with Amount 1704382.2175961637 and price 6.59245838422
+Date 489
+Date 490
+Selling USDT with Amount 1704382.2175961637 and price 6.64264654696
+Balance: 11321608.652415184
+Buying ETH with Amount 3767.782858920378 and price 3004.84637155
+Date 491
+Date 492
+Selling ETH with Amount 3767.782858920378 and price 3082.99756064
+Balance: 11616065.36307273
+Buying ZEC with Amount 9462.063990794677 and price 1227.64603731
+Date 493
+Date 494
+Date 495
+Date 496
+Selling ZEC with Amount 9462.063990794677 and price 1170.89757568
+Balance: 11079107.787750514
+Buying ETH with Amount 3393.687338914307 and price 3264.62242432
+Date 497
+Date 498
+Date 499
+Selling ETH with Amount 3393.687338914307 and price 2880.31807926
+Balance: 9774898.997630637
+Buying BTC with Amount 219.12153596114715 and price 44609.485575
+Date 500
+Selling BTC with Amount 219.12153596114715 and price 41968.8357849
+Balance: 9196275.759688444
+Buying USDT with Amount 1379470.2437711663 and price 6.66652709706
+Date 501
+Date 502
+Date 503
+Selling USDT with Amount 1379470.2437711663 and price 6.69569454481
+Balance: 9236511.38594632
+Buying ZEC with Amount 7915.047893390578 and price 1166.95584289
+Date 504
+Date 505
+Date 506
+Date 507
+Date 508
+Selling ZEC with Amount 7915.047893390578 and price 1352.98959417
+Balance: 10708977.43711463
+Buying BTC with Amount 211.64644063449848 and price 50598.4291775
+Date 509
+Date 510
+Date 511
+Selling BTC with Amount 211.64644063449848 and price 50229.855528
+Balance: 10630970.136086287
+Buying USDT with Amount 1570312.4712855527 and price 6.76997115573
+Date 512
+Selling USDT with Amount 1570312.4712855527 and price 6.76983697795
+Balance: 10630759.435044982
+Buying BTC with Amount 202.98432937845067 and price 52372.3159694
+Date 513
+Date 514
+Selling BTC with Amount 202.98432937845067 and price 55400.2833108
+Balance: 11245389.35521891
+Buying ZEC with Amount 7462.384335187654 and price 1506.94320342
+Date 515
+Date 516
+Date 517
+Date 518
+Selling ZEC with Amount 7462.384335187654 and price 1479.94923912
+Balance: 11043950.018881975
+Buying BTC with Amount 197.2200119123601 and price 55998.1206359
+Date 519
+Date 520
+Selling BTC with Amount 197.2200119123601 and price 53004.2475
+Balance: 10453498.323355682
+Buying USDT with Amount 1535208.9120502674 and price 6.809169906
+Date 521
+Date 522
+Date 523
+Date 524
+Date 525
+Date 526
+Date 527
+Date 528
+Date 529
+Date 530
+Date 531
+Date 532
+Date 533
+Date 534
+Selling USDT with Amount 1535208.9120502674 and price 6.868083555
+Balance: 10543943.082341883
+Buying BTC with Amount 240.96847143386998 and price 43756.525572
+Date 535
+Selling BTC with Amount 240.96847143386998 and price 43601.313117
+Balance: 10506541.774313034
+Buying XRP with Amount 4168384.5618041265 and price 2.520530824
+Date 536
+Date 537
+Date 538
+Selling XRP with Amount 4168384.5618041265 and price 2.1895470291
+Balance: 9126874.03344453
+Buying ZEC with Amount 9217.389727841339 and price 990.1798994
+Date 539
+Selling ZEC with Amount 9217.389727841339 and price 886.9817757
+Balance: 8175656.70811965
+Buying XRP with Amount 3562236.4187103966 and price 2.2950909898
+Date 540
+Selling XRP with Amount 3562236.4187103966 and price 2.1882200472
+Balance: 7794957.144288024
+Buying USDT with Amount 1130578.411286569 and price 6.894663003
+Date 541
+Date 542
+Selling USDT with Amount 1130578.411286569 and price 6.84479484
+Balance: 7738577.275789704
+Buying BTC with Amount 169.3028203915683 and price 45708.495924
+Date 543
+Selling BTC with Amount 169.3028203915683 and price 46002.542061
+Balance: 7788360.116109049
+Buying LTC with Amount 19959.985587044815 and price 390.19868437
+Date 544
+Selling LTC with Amount 19959.985587044815 and price 410.72959329
+Balance: 8198156.762241179
+Buying BTC with Amount 179.5966682417459 and price 45647.599382
+Date 545
+Selling BTC with Amount 179.5966682417459 and price 46933.279344
+Balance: 8429060.599841554
+Buying LTC with Amount 19659.96558649192 and price 428.74238832
+Date 546
+Date 547
+Selling LTC with Amount 19659.96558649192 and price 412.86357552
+Balance: 8116883.686639207
+Buying ZEC with Amount 7746.524769803671 and price 1047.809686
+Date 548
+Date 549
+Date 550
+Selling ZEC with Amount 7746.524769803671 and price 1078.5335509
+Balance: 8354886.867111158
+Buying LTC with Amount 18627.543998920046 and price 448.52326574
+Date 551
+Date 552
+Date 553
+Selling LTC with Amount 18627.543998920046 and price 399.12364723
+Balance: 7434693.299786268
+Buying BTC with Amount 147.4724402214419 and price 50414.120012
+Date 554
+Selling BTC with Amount 147.4724402214419 and price 46394.349617
+Balance: 6841887.950505708
+Buying USDT with Amount 999561.0787205845 and price 6.8448923194
+Date 555
+Date 556
+Date 557
+Date 558
+Date 559
+Date 560
+Date 561
+Selling USDT with Amount 999561.0787205845 and price 6.90671477
+Balance: 6903683.265916593
+Buying BTC with Amount 158.43821011680336 and price 43573.348
+Date 562
+Selling BTC with Amount 158.43821011680336 and price 44711.056692
+Balance: 7083939.794711403
+Buying ETH with Amount 4625.6494051740965 and price 1531.4476248
+Date 563
+Date 564
+Date 565
+Selling ETH with Amount 4625.6494051740965 and price 1440.7014675
+Balance: 6664179.886174823
+Buying XRP with Amount 3017680.7737880787 and price 2.208378018
+Date 566
+Date 567
+Date 568
+Date 569
+Date 570
+Date 571
+Date 572
+Selling XRP with Amount 3017680.7737880787 and price 2.5121545479947
+Balance: 7580880.480267888
+Buying ZEC with Amount 8005.814221119777 and price 946.9218584
+Date 573
+Date 574
+Selling ZEC with Amount 8005.814221119777 and price 763.4804666224761
+Balance: 6112282.777233383
+Buying USDT with Amount 889690.6344204841 and price 6.870121524
+Date 575
+Date 576
+Selling USDT with Amount 889690.6344204841 and price 6.8528172789
+Balance: 6096887.352432196
+Buying LTC with Amount 17163.52359116759 and price 355.2235250557569
+Date 577
+Selling LTC with Amount 17163.52359116759 and price 351.604994125748
+Balance: 6034780.611449619
+Buying XRP with Amount 1943314.9505337134 and price 3.1054053331871
+Date 578
+Date 579
+Date 580
+Date 581
+Date 582
+Selling XRP with Amount 1943314.9505337134 and price 3.0754625089333
+Balance: 5976592.273416006
+Buying BTC with Amount 155.30690028115544 and price 38482.46447901833
+Date 583
+Selling BTC with Amount 155.30690028115544 and price 38482.46447901833
+Balance: 5976592.273416006
+Buying XRP with Amount 1943314.9505337134 and price 3.0754625089333
+Date 584
+Date 585
+Selling XRP with Amount 1943314.9505337134 and price 2.6742986089098
+Balance: 5197004.468885927
+Buying BTC with Amount 135.04863940612415 and price 38482.46447901833
+Date 586
+Selling BTC with Amount 135.04863940612415 and price 38533.95682823553
+Balance: 5203958.4405875355
+Buying ZEC with Amount 7209.5003638994185 and price 721.8195683359198
+Date 587
+Date 588
+Date 589
+Date 590
+Date 591
+Selling ZEC with Amount 7209.5003638994185 and price 647.3824571766248
+Balance: 4667304.060596976
+Buying USDT with Amount 683238.1659089158 and price 6.8311524348
+Date 592
+Selling USDT with Amount 683238.1659089158 and price 6.863063778
+Balance: 4689107.108196635
+Buying XRP with Amount 1747286.3660039739 and price 2.6836511744326
+Date 593
+Date 594
+Date 595
+Selling XRP with Amount 1747286.3660039739 and price 2.8286512570365
+Balance: 4942463.775599878
+Buying BTC with Amount 108.993627478391 and price 45346.35547
+Date 596
+Date 597
+Selling BTC with Amount 108.993627478391 and price 44921.14057504228
+Balance: 4896118.061740593
+Buying ZEC with Amount 6896.823332032538 and price 709.9091604971815
+Date 598
+Date 599
+Date 600
+Date 601
+Date 602
+Date 603
+Selling ZEC with Amount 6896.823332032538 and price 758.0543920453885
+Balance: 5228167.218008376
+Buying XRP with Amount 1849786.920556213 and price 2.8263618689856
+Date 604
+Selling XRP with Amount 1849786.920556213 and price 2.7907792336471
+Balance: 5162346.924560297
+Buying ZEC with Amount 7119.69626708795 and price 725.0796566173974
+Date 605
+Selling ZEC with Amount 7119.69626708795 and price 719.4711370888937
+Balance: 5122415.969009319
+Buying XRP with Amount 1823002.7831031906 and price 2.8098783043489
+Date 606
+Selling XRP with Amount 1823002.7831031906 and price 2.7319109369676
+Balance: 4980281.24128198
+Buying USDT with Amount 717616.3970096967 and price 6.9400326721
+Date 607
+Date 608
+Date 609
+Date 610
+Selling USDT with Amount 717616.3970096967 and price 6.8463147411
+Balance: 4913027.717302556
+Buying XRP with Amount 1759806.7346055377 and price 2.7917995883814
+Date 611
+Selling XRP with Amount 1759806.7346055377 and price 2.7862709447564
+Balance: 4903298.373018047
+Buying LTC with Amount 15767.485824858251 and price 310.9752834080716
+Date 612
+Date 613
+Date 614
+Selling LTC with Amount 15767.485824858251 and price 333.3252276853926
+Balance: 5255700.802597077
+Buying XRP with Amount 1596103.607260898 and price 3.2928318554561
+Date 615
+Date 616
+Date 617
+Selling XRP with Amount 1596103.607260898 and price 3.077580670602
+Balance: 4912137.609984266
+Buying ZEC with Amount 6350.554764047713 and price 773.4974018007475
+Date 618
+Date 619
+Date 620
+Date 621
+Selling ZEC with Amount 6350.554764047713 and price 767.1278172680549
+Balance: 4871687.214585169
+Buying XRP with Amount 1514819.5658151908 and price 3.2160181479855
+Date 622
+Date 623
+Selling XRP with Amount 1514819.5658151908 and price 2.8605359635323
+Balance: 4333195.846276738
+Buying USDT with Amount 626318.61928113 and price 6.91851673075
+Date 624
+Date 625
+Date 626
+Selling USDT with Amount 626318.61928113 and price 6.9734305108
+Balance: 4367589.369177162
+Buying XRP with Amount 1331017.6374477302 and price 3.2813910547062
+Date 627
+Date 628
+Date 629
+Selling XRP with Amount 1331017.6374477302 and price 2.8874415234673
+Balance: 3843235.5948339207
+Buying USDT with Amount 555920.3795449702 and price 6.91328423322
+Date 630
+Date 631
+Date 632
+Date 633
+Date 634
+Selling USDT with Amount 555920.3795449702 and price 7.00312896174
+Balance: 3893182.1104128743
+Buying LTC with Amount 17371.638670199543 and price 224.1113912351571
+Date 635
+Date 636
+Selling LTC with Amount 17371.638670199543 and price 222.570309292021
+Balance: 3866410.9917355445
+Buying BTC with Amount 134.53288775824242 and price 28739.522775156227
+Date 637
+Selling BTC with Amount 134.53288775824242 and price 28206.55216553961
+Balance: 3794708.9165335502
+Buying ZEC with Amount 7137.105366396633 and price 531.6873888957891
+Date 638
+Date 639
+Date 640
+Selling ZEC with Amount 7137.105366396633 and price 494.3116538630583
+Balance: 3527954.3574584285
+Buying USDT with Amount 508887.5391295477 and price 6.93267978912
+Date 641
+Date 642
+Date 643
+Date 644
+Date 645
+Date 646
+Selling USDT with Amount 508887.5391295477 and price 6.78775584
+Balance: 3454204.365629816
+Buying BTC with Amount 148.2866233321345 and price 23294.10629233252
+Date 647
+Date 648
+Selling BTC with Amount 148.2866233321345 and price 23719.13598078001
+Balance: 3517230.582945604
+Buying XRP with Amount 1673599.0428008302 and price 2.1015969135949
+Date 649
+Date 650
+Selling XRP with Amount 1673599.0428008302 and price 1.9965236797653
+Balance: 3341380.1193843973
+Buying LTC with Amount 20043.72853038514 and price 166.7045187884608
+Date 651
+Date 652
+Date 653
+Date 654
+Date 655
+Selling LTC with Amount 20043.72853038514 and price 212.2623438736805
+Balance: 4254528.797827311
+Buying XRP with Amount 1705066.6087388152 and price 2.49522732779
+Date 656
+Selling XRP with Amount 1705066.6087388152 and price 2.410518896635
+Balance: 4110095.2803862705
+Buying ETH with Amount 5380.8980312351105 and price 763.8307316971876
+Date 657
+Date 658
+Date 659
+Date 660
+Date 661
+Selling ETH with Amount 5380.8980312351105 and price 847.9533363443568
+Balance: 4562750.438114593
+Buying USDT with Amount 642431.1474658607 and price 7.10231821124
+Date 662
+Date 663
+Date 664
+Selling USDT with Amount 642431.1474658607 and price 6.9655236404593
+Balance: 4474869.345040848
+Buying ETH with Amount 4758.076261364478 and price 940.4786933275393
+Date 665
+Date 666
+Date 667
+Date 668
+Date 669
+Date 670
+Date 671
+Selling ETH with Amount 4758.076261364478 and price 1037.461533746085
+Balance: 4936321.09579603
+Buying LTC with Amount 18915.027413442604 and price 260.9735099980805
+Date 672
+Date 673
+Date 674
+Date 675
+Selling LTC with Amount 18915.027413442604 and price 232.6486484472939
+Balance: 4400555.563080936
+Buying ZEC with Amount 11021.634618298027 and price 399.2652374608
+Date 676
+Selling ZEC with Amount 11021.634618298027 and price 366.7816686797125
+Balance: 4042533.536877436
+Buying USDT with Amount 584772.0659361505 and price 6.9130072593427
+Date 677
+Date 678
+Date 679
+Date 680
+Date 681
+Date 682
+Date 683
+Selling USDT with Amount 584772.0659361505 and price 6.8431838132934
+Balance: 4001702.7360804062
+Buying BTC with Amount 162.41974057863405 and price 24638.031816970044
+Date 684
+Date 685
+Selling BTC with Amount 162.41974057863405 and price 23942.23923662684
+Balance: 3888692.2856845246
+Buying LTC with Amount 18385.194503478382 and price 211.5121645816042
+Date 686
+Date 687
+Selling LTC with Amount 18385.194503478382 and price 216.0955150950889
+Balance: 3972958.076352558
+Buying USDT with Amount 582988.1779972079 and price 6.8148175662862
+Date 688
+Selling USDT with Amount 582988.1779972079 and price 6.844232732582
+Balance: 3990106.7705568313
+Buying LTC with Amount 18272.158197272984 and price 218.3708529380143
+Date 689
+Date 690
+Date 691
+Date 692
+Date 693
+Date 694
+Selling LTC with Amount 18272.158197272984 and price 216.1910434077276
+Balance: 3950276.945979509
+Buying USDT with Amount 583460.5335349723 and price 6.7704269936584
+Date 695
+Date 696
+Selling USDT with Amount 583460.5335349723 and price 6.7175621586074
+Balance: 3919432.401115414
+Buying XRP with Amount 1868420.4572208766 and price 2.0977250521787
+Date 697
+Date 698
+Selling XRP with Amount 1868420.4572208766 and price 2.0843739753365
+Balance: 3894486.9760175194
+Buying LTC with Amount 17174.158417210605 and price 226.7643561570253
+Date 699
+Date 700
+Date 701
+Date 702
+Date 703
+Selling LTC with Amount 17174.158417210605 and price 228.4690257140154
+Balance: 3923763.241038264
+Buying USDT with Amount 583017.5925112526 and price 6.7300940682378
+Date 704
+Selling USDT with Amount 583017.5925112526 and price 6.70195086568
+Balance: 3907355.2588374587
+Buying LTC with Amount 14643.100457109358 and price 266.8393398162069
+Date 705
+Date 706
+Date 707
+Date 708
+Date 709
+Selling LTC with Amount 14643.100457109358 and price 281.0634416146493
+Balance: 4115640.210384201
+Buying ETH with Amount 4951.936736717987 and price 831.1172838431572
+Date 710
+Selling ETH with Amount 4951.936736717987 and price 832.418004460825
+Balance: 4122081.2965950365
+Buying ZEC with Amount 11530.213100666992 and price 357.502611669561
+Date 711
+Date 712
+Date 713
+Selling ZEC with Amount 11530.213100666992 and price 345.6396143604845
+Balance: 3985298.409608745
+Buying LTC with Amount 13559.324437088126 and price 293.9157056164216
+Date 714
+Selling LTC with Amount 13559.324437088126 and price 309.7199056793426
+Balance: 4199592.685730539
+Buying ETH with Amount 4328.907274697908 and price 970.1276602242783
+Date 715
+Date 716
+Date 717
+Date 718
+Selling ETH with Amount 4328.907274697908 and price 983.7649471574605
+Balance: 4258627.236342734
+Buying LTC with Amount 13024.785921440172 and price 326.9633191692298
+Date 719
+Date 720
+Selling LTC with Amount 13024.785921440172 and price 299.9813430990363
+Balance: 3907192.774291042
+Buying USDT with Amount 570981.0565465499 and price 6.8429464156356
+Date 721
+Date 722
+Date 723
+Selling USDT with Amount 570981.0565465499 and price 6.7005814381629
+Balance: 3825905.0690384535
+Buying XRP with Amount 1823991.852170218 and price 2.0975450435737
+Date 724
+Date 725
+Selling XRP with Amount 1823991.852170218 and price 2.1405115026969
+Balance: 3904275.5403957753
+Buying LTC with Amount 12263.255302132431 and price 318.3718714326097
+Date 726
+Date 727
+Date 728
+Date 729
+Date 730
+Date 731
+Date 732
+Date 733
+Date 734
+Date 735
+Selling LTC with Amount 12263.255302132431 and price 365.688260337238
+Balance: 4484528.4975082185
+Buying ZEC with Amount 13636.96008885487 and price 328.8510392556847
+Date 736
+Date 737
+Date 738
+Date 739
+Date 740
+Selling ZEC with Amount 13636.96008885487 and price 336.094493042587
+Balance: 4583307.18770567
+Buying LTC with Amount 11409.85198878345 and price 401.6973394756854
+Date 741
+Date 742
+Date 743
+Selling LTC with Amount 11409.85198878345 and price 395.5745413405193
+Balance: 4513446.967226225
+Buying ZEC with Amount 12208.65712657308 and price 369.6923355642744
+Date 744
+Date 745
+Date 746
+Date 747
+Selling ZEC with Amount 12208.65712657308 and price 366.0658859586047
+Balance: 4469172.887403808
+Buying USDT with Amount 659738.6118926432 and price 6.7741569264572
+Date 748
+Selling USDT with Amount 659738.6118926432 and price 6.7287242048554
+Balance: 4439199.166719731
+Buying LTC with Amount 11104.564957032226 and price 399.7634471856103
+Date 749
+Date 750
+Selling LTC with Amount 11104.564957032226 and price 392.1391383984363
+Balance: 4354534.534540085
+Buying ZEC with Amount 12257.563158580491 and price 355.2528735282788
+Date 751
+Selling ZEC with Amount 12257.563158580491 and price 370.4188771373949
+Balance: 4540432.781642085
+Buying USDT with Amount 665021.921767251 and price 6.827493399881
+Date 752
+Selling USDT with Amount 665021.921767251 and price 6.7556629847906
+Balance: 4492663.980957327
+Buying LTC with Amount 11137.481476632607 and price 403.3823975719576
+Date 753
+Selling LTC with Amount 11137.481476632607 and price 405.7853875426968
+Balance: 4519427.237244969
+Buying ETH with Amount 4811.312944760455 and price 939.3334603534049
+Date 754
+Date 755
+Date 756
+Selling ETH with Amount 4811.312944760455 and price 947.6328118411705
+Balance: 4559358.0144911725
+Buying ZEC with Amount 11274.259480327826 and price 404.4042114204203
+Date 757
+Date 758
+Selling ZEC with Amount 11274.259480327826 and price 469.8930679161586
+Balance: 5297696.375694078
+Buying LTC with Amount 9196.69663932815 and price 576.0433972606379
+Date 759
+Date 760
+Date 761
+Date 762
+Date 763
+Selling LTC with Amount 9196.69663932815 and price 567.1034320617931
+Balance: 5215478.227794152
+Buying XRP with Amount 2244842.368556386 and price 2.3233160157914
+Date 764
+Selling XRP with Amount 2244842.368556386 and price 2.3145890758945
+Balance: 5195887.623365745
+Buying ETH with Amount 4372.866393497738 and price 1188.2109252392902
+Date 765
+Coin Index:1, Amount:4372.866393497738, Total Balance:5288273.097327297

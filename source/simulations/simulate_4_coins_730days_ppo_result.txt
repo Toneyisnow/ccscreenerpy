@@ -1,0 +1,1428 @@
+Date 0
+Buying BTC with Amount 14.985380829981121 and price 6673.17041419
+Date 1
+Date 2
+Date 3
+Date 4
+Date 5
+Date 6
+Date 7
+Date 8
+Date 9
+Selling BTC with Amount 14.985380829981121 and price 6805.1420867
+Balance: 101977.6457713319
+Buying USDT with Amount 14804.057356929392 and price 6.88849302003
+Date 10
+Selling USDT with Amount 14804.057356929392 and price 6.8830930255
+Balance: 101897.70394258267
+Buying ETH with Amount 1299.087638112475 and price 78.4378982242
+Date 11
+Date 12
+Date 13
+Date 14
+Date 15
+Date 16
+Date 17
+Selling ETH with Amount 1299.087638112475 and price 87.6381371814
+Balance: 113849.620639562
+Buying BTC with Amount 15.731119921300179 and price 7237.22285566
+Date 18
+Date 19
+Date 20
+Date 21
+Date 22
+Date 23
+Selling BTC with Amount 15.731119921300179 and price 7855.89288525
+Balance: 123581.99306675662
+Buying ETH with Amount 1238.3646319531547 and price 99.7945111464
+Date 24
+Date 25
+Date 26
+Date 27
+Date 28
+Date 29
+Date 30
+Date 31
+Selling ETH with Amount 1238.3646319531547 and price 135.218549152
+Balance: 167449.86885385605
+Buying BTC with Amount 19.136361211050584 and price 8750.3505503
+Date 32
+Date 33
+Selling BTC with Amount 19.136361211050584 and price 8437.89917137
+Balance: 161470.68640576073
+Buying USDT with Amount 23410.663462917157 and price 6.89731355378
+Date 34
+Date 35
+Date 36
+Selling USDT with Amount 23410.663462917157 and price 6.90895052161
+Balance: 161743.11554335765
+Buying ETH with Amount 1090.6968149104196 and price 148.293378446
+Date 37
+Date 38
+Date 39
+Date 40
+Date 41
+Date 42
+Date 43
+Date 44
+Date 45
+Date 46
+Date 47
+Date 48
+Date 49
+Date 50
+Date 51
+Date 52
+Date 53
+Selling ETH with Amount 1090.6968149104196 and price 366.091945679
+Balance: 399295.3191164436
+Buying BTC with Amount 55.42145672180082 and price 7204.70631295
+Date 54
+Selling BTC with Amount 55.42145672180082 and price 7166.43306809
+Balance: 397174.16013283224
+Buying LTC with Amount 8258.811968949592 and price 48.0909556515
+Date 55
+Date 56
+Date 57
+Date 58
+Date 59
+Date 60
+Date 61
+Date 62
+Date 63
+Selling LTC with Amount 8258.811968949592 and price 60.1476132946
+Balance: 496747.8285811941
+Buying BTC with Amount 61.177221078485935 and price 8119.81681783
+Date 64
+Date 65
+Date 66
+Date 67
+Selling BTC with Amount 61.177221078485935 and price 8276.67115335
+Balance: 506343.74094242015
+Buying LTC with Amount 7247.238580436083 and price 69.8671273648
+Date 68
+Date 69
+Selling LTC with Amount 7247.238580436083 and price 74.307864266
+Balance: 538526.820738363
+Buying ETH with Amount 1593.2514457396192 and price 338.004915783
+Date 70
+Selling ETH with Amount 1593.2514457396192 and price 335.558400259
+Balance: 534628.9063427255
+Buying LTC with Amount 7244.194310499876 and price 73.8010168457
+Date 71
+Date 72
+Selling LTC with Amount 7244.194310499876 and price 71.0136389443
+Balance: 514436.5992081905
+Buying ETH with Amount 1474.3540462782828 and price 348.9233814
+Date 73
+Selling ETH with Amount 1474.3540462782828 and price 332.190729029
+Balance: 489766.7454800388
+Buying BTC with Amount 58.741773379171754 and price 8337.62273942
+Date 74
+Date 75
+Date 76
+Selling BTC with Amount 58.741773379171754 and price 8414.18120121
+Balance: 494263.92529276496
+Buying LTC with Amount 5494.648674808223 and price 89.9536903167
+Date 77
+Date 78
+Date 79
+Date 80
+Date 81
+Selling LTC with Amount 5494.648674808223 and price 98.8803419964
+Balance: 543312.7401151032
+Buying ETH with Amount 1123.1813166041215 and price 483.726653999
+Date 82
+Date 83
+Date 84
+Date 85
+Date 86
+Selling ETH with Amount 1123.1813166041215 and price 549.912091956
+Balance: 617650.9874596669
+Buying LTC with Amount 4255.082114995037 and price 145.156067678
+Date 87
+Date 88
+Date 89
+Date 90
+Date 91
+Date 92
+Date 93
+Date 94
+Selling LTC with Amount 4255.082114995037 and price 212.096496637
+Balance: 902488.0094932037
+Buying BTC with Amount 73.15769333374728 and price 12336.2009977
+Date 95
+Date 96
+Date 97
+Date 98
+Selling BTC with Amount 73.15769333374728 and price 12482.2027999
+Balance: 913169.1645647258
+Buying ETH with Amount 1433.198866578417 and price 637.154540001
+Date 99
+Date 100
+Date 101
+Date 102
+Date 103
+Date 104
+Date 105
+Date 106
+Date 107
+Selling ETH with Amount 1433.198866578417 and price 1197.90323154
+Balance: 1716833.553713751
+Buying LTC with Amount 8361.676817393805 and price 205.321682625
+Date 108
+Selling LTC with Amount 8361.676817393805 and price 162.965588051
+Balance: 1362665.5796389957
+Buying BTC with Amount 86.09172410232004 and price 15828.0670279
+Date 109
+Date 110
+Selling BTC with Amount 86.09172410232004 and price 13991.1336805
+Balance: 1204520.8207002836
+Buying USDT with Amount 169396.01346241395 and price 7.11067985651
+Date 111
+Date 112
+Selling USDT with Amount 169396.01346241395 and price 7.15051332561
+Balance: 1211268.4515682019
+Buying ETH with Amount 761.0912135760074 and price 1591.4892065
+Date 113
+Date 114
+Date 115
+Date 116
+Selling ETH with Amount 761.0912135760074 and price 1528.40448503
+Balance: 1163255.2243464952
+Buying LTC with Amount 6173.696245951497 and price 188.421195019
+Date 117
+Selling LTC with Amount 6173.696245951497 and price 190.339278839
+Balance: 1175096.8912254495
+Buying BTC with Amount 68.58250572871434 and price 17134.0617952
+Date 118
+Date 119
+Selling BTC with Amount 68.58250572871434 and price 18281.0556386
+Balance: 1253760.60306123
+Buying ETH with Amount 697.6989807015873 and price 1796.99360002
+Date 120
+Date 121
+Date 122
+Date 123
+Date 124
+Date 125
+Date 126
+Date 127
+Date 128
+Selling ETH with Amount 697.6989807015873 and price 2523.02288972
+Balance: 1760310.4984444173
+Buying LTC with Amount 7235.388575524172 and price 243.291770728
+Date 129
+Date 130
+Date 131
+Date 132
+Date 133
+Date 134
+Selling LTC with Amount 7235.388575524172 and price 326.117659569
+Balance: 2359587.988322224
+Buying BTC with Amount 128.48705547888693 and price 18364.4023869
+Date 135
+Date 136
+Date 137
+Date 138
+Selling BTC with Amount 128.48705547888693 and price 17698.8756903
+Balance: 2274076.422733499
+Buying USDT with Amount 325984.06348304637 and price 6.97603557191
+Date 139
+Date 140
+Date 141
+Selling USDT with Amount 325984.06348304637 and price 6.86087188171
+Balance: 2236534.8950364003
+Buying ETH with Amount 1118.6785872706525 and price 1999.26495464
+Date 142
+Date 143
+Selling ETH with Amount 1118.6785872706525 and price 1952.58065539
+Balance: 2184310.16910369
+Buying USDT with Amount 320344.7870513451 and price 6.81862248863
+Date 144
+Selling USDT with Amount 320344.7870513451 and price 6.91447902961
+Balance: 2215017.3123114067
+Buying LTC with Amount 7025.596490130792 and price 315.278185336
+Date 145
+Date 146
+Date 147
+Date 148
+Date 149
+Selling LTC with Amount 7025.596490130792 and price 354.828563204
+Balance: 2492882.308244174
+Buying BTC with Amount 145.43609573476772 and price 17140.7400319
+Date 150
+Selling BTC with Amount 145.43609573476772 and price 17499.2549681
+Balance: 2545023.320827701
+Buying USDT with Amount 371001.3613353727 and price 6.8598759629
+Date 151
+Date 152
+Date 153
+Date 154
+Date 155
+Date 156
+Date 157
+Date 158
+Date 159
+Selling USDT with Amount 371001.3613353727 and price 6.77591027164
+Balance: 2513871.9350647754
+Buying ETH with Amount 1586.7911118915945 and price 1584.24881273
+Date 160
+Date 161
+Date 162
+Selling ETH with Amount 1586.7911118915945 and price 1553.16239676
+Balance: 2464544.286503014
+Buying BTC with Amount 136.49296509724556 and price 18056.2000741
+Date 163
+Date 164
+Date 165
+Date 166
+Date 167
+Selling BTC with Amount 136.49296509724556 and price 17079.3519603
+Balance: 2331211.3910008003
+Buying USDT with Amount 345417.6966546127 and price 6.74896339585
+Date 168
+Date 169
+Date 170
+Selling USDT with Amount 345417.6966546127 and price 6.75668266479
+Balance: 2333877.7630979125
+Buying BTC with Amount 126.937159061359 and price 18386.0878907
+Date 171
+Date 172
+Date 173
+Selling BTC with Amount 126.937159061359 and price 18261.2707456
+Balance: 2318033.8292967686
+Buying ETH with Amount 1567.9263531824029 and price 1478.40734011
+Date 174
+Date 175
+Date 176
+Date 177
+Date 178
+Date 179
+Date 180
+Date 181
+Date 182
+Date 183
+Selling ETH with Amount 1567.9263531824029 and price 1985.82156269
+Balance: 3113621.960859512
+Buying BTC with Amount 120.2110133597245 and price 25901.3036646
+Date 184
+Date 185
+Date 186
+Date 187
+Date 188
+Date 189
+Selling BTC with Amount 120.2110133597245 and price 27796.2708789
+Balance: 3341417.8899739687
+Buying LTC with Amount 10997.193613139705 and price 303.842780942
+Date 190
+Date 191
+Date 192
+Selling LTC with Amount 10997.193613139705 and price 311.3052881
+Balance: 3423484.5260299356
+Buying ETH with Amount 1632.437898233749 and price 2097.1606514
+Date 193
+Date 194
+Selling ETH with Amount 1632.437898233749 and price 2169.09018719
+Balance: 3540905.0262558926
+Buying LTC with Amount 10591.478853574778 and price 334.316394831
+Date 195
+Date 196
+Selling LTC with Amount 10591.478853574778 and price 344.103786628
+Balance: 3644567.9795054696
+Buying BTC with Amount 125.37852870407912 and price 29068.5176894
+Date 197
+Selling BTC with Amount 125.37852870407912 and price 28940.8479106
+Balance: 3628560.9304795503
+Buying LTC with Amount 8934.05324955497 and price 406.149463085
+Date 198
+Date 199
+Date 200
+Date 201
+Date 202
+Date 203
+Date 204
+Selling LTC with Amount 8934.05324955497 and price 425.819975372
+Balance: 3804298.334697634
+Buying BTC with Amount 126.7477477806684 and price 30014.7213762
+Date 205
+Selling BTC with Amount 126.7477477806684 and price 27664.7992066
+Balance: 3506450.9922409724
+Buying USDT with Amount 534210.1076116652 and price 6.56380503154
+Date 206
+Date 207
+Selling USDT with Amount 534210.1076116652 and price 6.56736307769
+Balance: 3508351.736457651
+Buying LTC with Amount 6890.0582337897 and price 509.190433145
+Date 208
+Date 209
+Selling LTC with Amount 6890.0582337897 and price 426.775247215
+Balance: 2940506.3060513455
+Buying BTC with Amount 107.55106256651582 and price 27340.56025
+Date 210
+Selling BTC with Amount 107.55106256651582 and price 27323.1687028
+Balance: 2938635.82667031
+Buying USDT with Amount 451407.0289251688 and price 6.50994698436
+Date 211
+Date 212
+Date 213
+Date 214
+Date 215
+Date 216
+Date 217
+Date 218
+Selling USDT with Amount 451407.0289251688 and price 6.55551931768
+Balance: 2959207.4982554787
+Buying ETH with Amount 1533.5657590443036 and price 1929.62543719
+Date 219
+Date 220
+Date 221
+Selling ETH with Amount 1533.5657590443036 and price 1742.70153791
+Balance: 2672547.4067726247
+Buying BTC with Amount 104.08200507206806 and price 25677.324384
+Date 222
+Date 223
+Selling BTC with Amount 104.08200507206806 and price 25004.8095161
+Balance: 2602550.7108808155
+Buying USDT with Amount 392917.08291251917 and price 6.62366393334
+Date 224
+Selling USDT with Amount 392917.08291251917 and price 6.60718005607
+Balance: 2596073.913908799
+Buying ETH with Amount 1340.9892159106832 and price 1935.93944165
+Date 225
+Date 226
+Selling ETH with Amount 1340.9892159106832 and price 2035.82970404
+Balance: 2730025.678548278
+Buying LTC with Amount 7301.818044391044 and price 373.883005842
+Date 227
+Date 228
+Date 229
+Selling LTC with Amount 7301.818044391044 and price 369.134246276
+Balance: 2695351.1002607844
+Buying BTC with Amount 96.71703329982515 and price 27868.4220173
+Date 230
+Date 231
+Date 232
+Date 233
+Date 234
+Date 235
+Selling BTC with Amount 96.71703329982515 and price 28757.9570781
+Balance: 2781384.29235754
+Buying ETH with Amount 1356.5811736085163 and price 2050.28961515
+Date 236
+Date 237
+Date 238
+Selling ETH with Amount 1356.5811736085163 and price 1971.14390387
+Balance: 2674016.710463237
+Buying BTC with Amount 87.2239032352463 and price 30656.9255821
+Date 239
+Date 240
+Date 241
+Date 242
+Selling BTC with Amount 87.2239032352463 and price 37158.076822
+Balance: 3241072.4971299763
+Buying LTC with Amount 7702.426292725367 and price 420.785915237
+Date 243
+Date 244
+Date 245
+Selling LTC with Amount 7702.426292725367 and price 393.935365507
+Balance: 3034258.116915494
+Buying BTC with Amount 80.41925667843114 and price 37730.4919523
+Date 246
+Date 247
+Selling BTC with Amount 80.41925667843114 and price 37047.2659657
+Balance: 2979313.590929734
+Buying USDT with Amount 450136.0661600944 and price 6.61869557875
+Date 248
+Date 249
+Selling USDT with Amount 450136.0661600944 and price 6.61876512453
+Balance: 2979344.8959935615
+Buying BTC with Amount 74.88277921790909 and price 39786.7831177
+Date 250
+Date 251
+Date 252
+Date 253
+Selling BTC with Amount 74.88277921790909 and price 36673.6786192
+Balance: 2746226.9791501067
+Buying USDT with Amount 415019.7935594144 and price 6.61709880292
+Date 254
+Selling USDT with Amount 415019.7935594144 and price 6.65404870946
+Balance: 2761561.921734377
+Buying ETH with Amount 1402.0142538315831 and price 1969.71030372
+Date 255
+Date 256
+Date 257
+Selling ETH with Amount 1402.0142538315831 and price 2029.04884603
+Balance: 2844755.4038545853
+Buying BTC with Amount 74.31123028695465 and price 38281.6351293
+Date 258
+Date 259
+Date 260
+Date 261
+Date 262
+Date 263
+Date 264
+Date 265
+Date 266
+Selling BTC with Amount 74.31123028695465 and price 47421.5359101
+Balance: 3523952.675576531
+Buying LTC with Amount 8496.503337088208 and price 414.753285648
+Date 267
+Date 268
+Date 269
+Date 270
+Selling LTC with Amount 8496.503337088208 and price 392.084993167
+Balance: 3331351.452865623
+Buying USDT with Amount 499592.57391862274 and price 6.66813645114
+Date 271
+Selling USDT with Amount 499592.57391862274 and price 6.68788874417
+Balance: 3341219.551781276
+Buying ETH with Amount 1588.6240924044916 and price 2103.2159639
+Date 272
+Date 273
+Date 274
+Selling ETH with Amount 1588.6240924044916 and price 2194.39021087
+Balance: 3486061.157124655
+Buying BTC with Amount 71.91575927979805 and price 48474.2314068
+Date 275
+Date 276
+Date 277
+Date 278
+Date 279
+Selling BTC with Amount 71.91575927979805 and price 54412.0641314
+Balance: 3913084.9059906965
+Buying ETH with Amount 1637.6696662696088 and price 2389.42259638
+Date 280
+Date 281
+Date 282
+Date 283
+Date 284
+Selling ETH with Amount 1637.6696662696088 and price 3168.99807848
+Balance: 5189772.025593373
+Buying LTC with Amount 8587.769101977101 and price 604.321327689
+Date 285
+Date 286
+Selling LTC with Amount 8587.769101977101 and price 565.701318251
+Balance: 4858112.301823652
+Buying BTC with Amount 73.08778135491328 and price 66469.5549894
+Date 287
+Date 288
+Date 289
+Date 290
+Selling BTC with Amount 73.08778135491328 and price 73228.5749972
+Balance: 5352114.078327223
+Buying LTC with Amount 7984.048031364387 and price 670.350936931
+Date 291
+Date 292
+Selling LTC with Amount 7984.048031364387 and price 677.755524308
+Balance: 5411232.659597625
+Buying BTC with Amount 70.1213910877545 and price 77169.4995729
+Date 293
+Date 294
+Date 295
+Date 296
+Date 297
+Selling BTC with Amount 70.1213910877545 and price 100443.257612
+Balance: 7043220.949139127
+Buying LTC with Amount 7157.23745785485 and price 984.069760241
+Date 298
+Date 299
+Date 300
+Date 301
+Date 302
+Date 303
+Selling LTC with Amount 7157.23745785485 and price 2103.41787373
+Balance: 15054661.195381757
+Buying ETH with Amount 3168.370569455783 and price 4751.54684888
+Date 304
+Selling ETH with Amount 3168.370569455783 and price 5257.76877173
+Balance: 16658559.837353012
+Buying BTC with Amount 131.8741690623731 and price 126321.628836
+Date 305
+Selling BTC with Amount 131.8741690623731 and price 126469.099131
+Balance: 16678007.359967519
+Buying LTC with Amount 7209.0217633755465 and price 2313.49105432
+Date 306
+Selling LTC with Amount 7209.0217633755465 and price 2069.89157345
+Balance: 14921893.400828704
+Buying ETH with Amount 2769.0738898066656 and price 5388.76678436
+Date 307
+Date 308
+Selling ETH with Amount 2769.0738898066656 and price 4436.46205771
+Balance: 12284891.247122714
+Buying USDT with Amount 1866952.4685527284 and price 6.58018425967
+Date 309
+Date 310
+Date 311
+Date 312
+Date 313
+Selling USDT with Amount 1866952.4685527284 and price 6.61956460943
+Balance: 12358412.488319617
+Buying ETH with Amount 2471.3195519837727 and price 5000.73431556
+Date 314
+Selling ETH with Amount 2471.3195519837727 and price 4814.45540988
+Balance: 11898057.786590492
+Buying BTC with Amount 114.59425041936946 and price 103827.7029
+Date 315
+Date 316
+Date 317
+Selling BTC with Amount 114.59425041936946 and price 84212.6152298
+Balance: 9650281.518113706
+Buying USDT with Amount 1475923.420425653 and price 6.53847034647
+Date 318
+Date 319
+Selling USDT with Amount 1475923.420425653 and price 6.58151180903
+Balance: 9713807.420755384
+Buying ETH with Amount 1691.5068510378335 and price 5742.69469544
+Date 320
+Date 321
+Date 322
+Date 323
+Date 324
+Date 325
+Date 326
+Date 327
+Date 328
+Date 329
+Date 330
+Date 331
+Date 332
+Selling ETH with Amount 1691.5068510378335 and price 6791.34777937
+Balance: 11487611.296584932
+Buying USDT with Amount 1754130.2142828992 and price 6.54889312267
+Date 333
+Date 334
+Date 335
+Date 336
+Date 337
+Selling USDT with Amount 1754130.2142828992 and price 6.432571676
+Balance: 11283568.332411988
+Buying LTC with Amount 9277.143943379282 and price 1216.27608683
+Date 338
+Selling LTC with Amount 9277.143943379282 and price 1153.18522224
+Balance: 10698265.300098307
+Buying BTC with Amount 144.38907372093368 and price 74093.3162351
+Date 339
+Date 340
+Selling BTC with Amount 144.38907372093368 and price 69609.9308217
+Balance: 10050913.433123536
+Buying USDT with Amount 1561043.0927930651 and price 6.43858806943
+Date 341
+Date 342
+Selling USDT with Amount 1561043.0927930651 and price 6.35397326052
+Balance: 9918826.070126576
+Buying ETH with Amount 1418.6796886576085 and price 6991.5895388
+Date 343
+Date 344
+Date 345
+Date 346
+Date 347
+Selling ETH with Amount 1418.6796886576085 and price 6532.81403612
+Balance: 9267970.582820777
+Buying USDT with Amount 1485811.3185736623 and price 6.23764973854
+Date 348
+Date 349
+Date 350
+Date 351
+Date 352
+Date 353
+Date 354
+Date 355
+Selling USDT with Amount 1485811.3185736623 and price 6.27897824175
+Balance: 9329376.940669904
+Buying LTC with Amount 9044.551305237743 and price 1031.4914058
+Date 356
+Date 357
+Selling LTC with Amount 9044.551305237743 and price 937.013043546
+Balance: 8474862.546028763
+Buying BTC with Amount 156.23396728614475 and price 54244.6863076
+Date 358
+Date 359
+Date 360
+Selling BTC with Amount 156.23396728614475 and price 54522.7408163
+Balance: 8518304.105044764
+Buying LTC with Amount 6288.451268257895 and price 1354.59491402
+Date 361
+Date 362
+Date 363
+Date 364
+Selling LTC with Amount 6288.451268257895 and price 1416.36738201
+Balance: 8906757.259719899
+Buying BTC with Amount 133.14904852505092 and price 66893.1348619
+Date 365
+Date 366
+Date 367
+Date 368
+Selling BTC with Amount 133.14904852505092 and price 63541.755
+Balance: 8460524.219861897
+Buying USDT with Amount 1331032.9459825254 and price 6.35635973204
+Date 369
+Date 370
+Date 371
+Selling USDT with Amount 1331032.9459825254 and price 6.35429535882
+Balance: 8457776.471093273
+Buying LTC with Amount 6060.716697310067 and price 1395.50764266
+Date 372
+Date 373
+Selling LTC with Amount 6060.716697310067 and price 1284.50798255
+Balance: 7785038.977668853
+Buying BTC with Amount 114.92584833262104 and price 67739.6694531
+Date 374
+Date 375
+Date 376
+Date 377
+Date 378
+Date 379
+Date 380
+Date 381
+Selling BTC with Amount 114.92584833262104 and price 63047.180582
+Balance: 7245750.713366303
+Buying USDT with Amount 1147668.0840643204 and price 6.31345492131
+Date 382
+Date 383
+Date 384
+Date 385
+Date 386
+Date 387
+Date 388
+Date 389
+Date 390
+Date 391
+Date 392
+Selling USDT with Amount 1147668.0840643204 and price 6.35140231792
+Balance: 7289301.72932893
+Buying LTC with Amount 6816.9747719624365 and price 1069.28688651
+Date 393
+Date 394
+Selling LTC with Amount 6816.9747719624365 and price 1036.76389824
+Balance: 7067593.33878351
+Buying BTC with Amount 125.17120784053175 and price 56463.4108811
+Date 395
+Date 396
+Date 397
+Selling BTC with Amount 125.17120784053175 and price 54753.0475322
+Balance: 6853505.09255552
+Buying USDT with Amount 1095698.5932625656 and price 6.25491821811
+Date 398
+Date 399
+Date 400
+Date 401
+Date 402
+Date 403
+Date 404
+Date 405
+Selling USDT with Amount 1095698.5932625656 and price 6.29070441563
+Balance: 6892715.9788364
+Buying LTC with Amount 8142.58575457786 and price 846.502104686
+Date 406
+Date 407
+Date 408
+Selling LTC with Amount 8142.58575457786 and price 712.797283809
+Balance: 5804013.009044955
+Buying BTC with Amount 135.13718651084062 and price 42949.0442927
+Date 409
+Selling BTC with Amount 135.13718651084062 and price 41804.1694687
+Balance: 5649297.846422501
+Buying USDT with Amount 893684.9861466172 and price 6.32135252801
+Date 410
+Date 411
+Selling USDT with Amount 893684.9861466172 and price 6.29705733239
+Balance: 5627585.5948614115
+Buying ETH with Amount 2237.7345076438814 and price 2514.85847657
+Date 412
+Date 413
+Date 414
+Date 415
+Date 416
+Date 417
+Selling ETH with Amount 2237.7345076438814 and price 3340.15212964
+Balance: 7474373.681275628
+Buying BTC with Amount 149.21501894379287 and price 50091.2959981
+Date 418
+Date 419
+Date 420
+Selling BTC with Amount 149.21501894379287 and price 49638.5577715
+Balance: 7406818.33821693
+Buying LTC with Amount 8432.197700856741 and price 878.397139273
+Date 421
+Date 422
+Date 423
+Selling LTC with Amount 8432.197700856741 and price 926.6429847
+Balance: 7813636.845102369
+Buying ETH with Amount 1990.2026694028464 and price 3926.05083152
+Date 424
+Date 425
+Date 426
+Date 427
+Date 428
+Selling ETH with Amount 1990.2026694028464 and price 4096.03596472
+Balance: 8151941.710955808
+Buying BTC with Amount 138.61606388767967 and price 58809.5021769
+Date 429
+Selling BTC with Amount 138.61606388767967 and price 56892.5187886
+Balance: 7886217.019131593
+Buying ETH with Amount 1822.128997911621 and price 4328.023443
+Date 430
+Date 431
+Date 432
+Selling ETH with Amount 1822.128997911621 and price 4266.86667435
+Balance: 7774781.497555856
+Buying BTC with Amount 132.82026060410982 and price 58536.1108478
+Date 433
+Selling BTC with Amount 132.82026060410982 and price 57762.5435584
+Balance: 7672036.088582933
+Buying ETH with Amount 1754.514062320995 and price 4372.7412925
+Date 434
+Date 435
+Date 436
+Date 437
+Selling ETH with Amount 1754.514062320995 and price 5041.47472833
+Balance: 8845338.305690903
+Buying LTC with Amount 8091.505943716975 and price 1093.16341942
+Date 438
+Date 439
+Selling LTC with Amount 8091.505943716975 and price 1016.9837818
+Balance: 8228930.315098466
+Buying BTC with Amount 137.89977948114145 and price 59673.2666728
+Date 440
+Selling BTC with Amount 137.89977948114145 and price 58838.7341391
+Balance: 8113848.4627314
+Buying USDT with Amount 1277990.877621131 and price 6.34890953043
+Date 441
+Date 442
+Date 443
+Date 444
+Date 445
+Selling USDT with Amount 1277990.877621131 and price 6.35348194311
+Balance: 8119691.964425158
+Buying ETH with Amount 1798.2354912633218 and price 4515.36631541
+Date 446
+Date 447
+Selling ETH with Amount 1798.2354912633218 and price 4283.95052395
+Balance: 7703551.874982994
+Buying BTC with Amount 144.4722957360225 and price 53322.0008427
+Date 448
+Selling BTC with Amount 144.4722957360225 and price 51550.2946645
+Balance: 7447589.416048746
+Buying USDT with Amount 1168949.5214522819 and price 6.37118137214
+Date 449
+Date 450
+Selling USDT with Amount 1168949.5214522819 and price 6.37747087453
+Balance: 7454941.5268577095
+Buying ETH with Amount 1635.5310524028594 and price 4558.11677553
+Date 451
+Date 452
+Selling ETH with Amount 1635.5310524028594 and price 4125.00918754
+Balance: 6746580.617668761
+Buying BTC with Amount 125.54877285410605 and price 53736.730868
+Date 453
+Date 454
+Selling BTC with Amount 125.54877285410605 and price 48299.0033687
+Balance: 6063880.60301662
+Buying USDT with Amount 949378.0643553961 and price 6.38721372516
+Date 455
+Date 456
+Date 457
+Date 458
+Date 459
+Date 460
+Date 461
+Selling USDT with Amount 949378.0643553961 and price 6.42356486208
+Balance: 6098391.575022847
+Buying LTC with Amount 7925.067767359532 and price 769.506552378
+Date 462
+Selling LTC with Amount 7925.067767359532 and price 791.273344611
+Balance: 6270894.878547407
+Buying ETH with Amount 1651.2388347566182 and price 3797.69101026
+Date 463
+Date 464
+Date 465
+Date 466
+Selling ETH with Amount 1651.2388347566182 and price 3878.42968653
+Balance: 6404213.716271273
+Buying BTC with Amount 130.97483275720808 and price 48896.5214267
+Date 467
+Selling BTC with Amount 130.97483275720808 and price 48895.1549112
+Balance: 6404034.737132201
+Buying ETH with Amount 1655.2856974096374 and price 3868.83952852
+Date 468
+Selling ETH with Amount 1655.2856974096374 and price 3848.51587672
+Balance: 6370393.2869885275
+Buying BTC with Amount 129.7816918406562 and price 49085.4541703
+Date 469
+Date 470
+Date 471
+Selling BTC with Amount 129.7816918406562 and price 43437.314145
+Balance: 5637368.118752167
+Buying USDT with Amount 875146.4037979745 and price 6.44162861698
+Date 472
+Date 473
+Date 474
+Date 475
+Date 476
+Selling USDT with Amount 875146.4037979745 and price 6.42738829378
+Balance: 5624905.751114766
+Buying ETH with Amount 1749.6110307249749 and price 3214.946438
+Date 477
+Selling ETH with Amount 1749.6110307249749 and price 3221.63398743
+Balance: 5636606.361366013
+Buying USDT with Amount 869951.3893233566 and price 6.47921990877
+Date 478
+Selling USDT with Amount 869951.3893233566 and price 6.46178251171
+Balance: 5621436.673567483
+Buying ETH with Amount 1681.9425214022465 and price 3342.22876349
+Date 479
+Date 480
+Date 481
+Selling ETH with Amount 1681.9425214022465 and price 3030.04633108
+Balance: 5096363.766062321
+Buying BTC with Amount 116.21268630141643 and price 43853.7644061
+Date 482
+Selling BTC with Amount 116.21268630141643 and price 39573.1863309
+Balance: 4598906.289020382
+Buying USDT with Amount 711484.0511999062 and price 6.46382203686
+Date 483
+Date 484
+Date 485
+Date 486
+Date 487
+Selling USDT with Amount 711484.0511999062 and price 6.58318481766
+Balance: 4683831.003866453
+Buying BTC with Amount 115.15366331295328 and price 40674.6157188
+Date 488
+Selling BTC with Amount 115.15366331295328 and price 39122.0964917
+Balance: 4505052.727502093
+Buying USDT with Amount 683364.6061817524 and price 6.59245838422
+Date 489
+Date 490
+Selling USDT with Amount 683364.6061817524 and price 6.64264654696
+Balance: 4539349.541567897
+Buying ETH with Amount 1510.6760813286935 and price 3004.84637155
+Date 491
+Date 492
+Selling ETH with Amount 1510.6760813286935 and price 3082.99756064
+Balance: 4657410.673653556
+Buying LTC with Amount 8240.159305279214 and price 565.208814673
+Date 493
+Date 494
+Selling LTC with Amount 8240.159305279214 and price 556.225046186
+Balance: 4583382.990158929
+Buying BTC with Amount 104.74802832985395 and price 43756.2698147
+Date 495
+Date 496
+Selling BTC with Amount 104.74802832985395 and price 44312.04
+Balance: 4641598.821273621
+Buying ETH with Amount 1421.7873364759591 and price 3264.62242432
+Date 497
+Date 498
+Date 499
+Selling ETH with Amount 1421.7873364759591 and price 2880.31807926
+Balance: 4095199.7701146263
+Buying BTC with Amount 91.80109829398377 and price 44609.485575
+Date 500
+Selling BTC with Amount 91.80109829398377 and price 41968.8357849
+Balance: 3852785.2191736684
+Buying USDT with Amount 577929.882092999 and price 6.66652709706
+Date 501
+Date 502
+Date 503
+Date 504
+Selling USDT with Amount 577929.882092999 and price 6.70391858051
+Balance: 3874394.874795209
+Buying ETH with Amount 1204.0819815801833 and price 3217.71684492
+Date 505
+Selling ETH with Amount 1204.0819815801833 and price 3360.57121038
+Balance: 4046403.2422356657
+Buying LTC with Amount 6717.221938369037 and price 602.392369846
+Date 506
+Date 507
+Selling LTC with Amount 6717.221938369037 and price 587.295013944
+Balance: 3944990.951959386
+Buying BTC with Amount 79.63521222519022 and price 49538.2738581
+Date 508
+Date 509
+Date 510
+Date 511
+Selling BTC with Amount 79.63521222519022 and price 50229.855528
+Balance: 4000065.205012924
+Buying USDT with Amount 590854.0986363479 and price 6.76997115573
+Date 512
+Selling USDT with Amount 590854.0986363479 and price 6.76983697795
+Balance: 3999985.925521665
+Buying BTC with Amount 76.37596030427162 and price 52372.3159694
+Date 513
+Date 514
+Date 515
+Date 516
+Date 517
+Date 518
+Date 519
+Date 520
+Selling BTC with Amount 76.37596030427162 and price 53004.2475
+Balance: 4048250.3030177876
+Buying USDT with Amount 594529.1950272253 and price 6.809169906
+Date 521
+Date 522
+Date 523
+Date 524
+Date 525
+Date 526
+Date 527
+Date 528
+Date 529
+Date 530
+Date 531
+Date 532
+Date 533
+Date 534
+Selling USDT with Amount 594529.1950272253 and price 6.868083555
+Balance: 4083276.187333874
+Buying BTC with Amount 93.31810818971378 and price 43756.525572
+Date 535
+Selling BTC with Amount 93.31810818971378 and price 43601.313117
+Balance: 4068792.0546657923
+Buying LTC with Amount 9622.306239155734 and price 422.8499856
+Date 536
+Selling LTC with Amount 9622.306239155734 and price 393.7131618
+Balance: 3788428.613225871
+Buying ETH with Amount 1863.0898187430264 and price 2033.411688
+Date 537
+Selling ETH with Amount 1863.0898187430264 and price 2068.9256682
+Balance: 3854594.348159533
+Buying LTC with Amount 9673.635418832559 and price 398.4638847
+Date 538
+Selling LTC with Amount 9673.635418832559 and price 370.28974074
+Balance: 3582047.9512527897
+Buying BTC with Amount 80.05614883362954 and price 44744.195211
+Date 539
+Date 540
+Selling BTC with Amount 80.05614883362954 and price 44431.135224
+Balance: 3556985.5743396636
+Buying USDT with Amount 515904.1961575136 and price 6.894663003
+Date 541
+Date 542
+Selling USDT with Amount 515904.1961575136 and price 6.84479484
+Balance: 3531258.3797932966
+Buying BTC with Amount 77.25606166662664 and price 45708.495924
+Date 543
+Selling BTC with Amount 77.25606166662664 and price 46002.542061
+Balance: 3553975.2262862017
+Buying LTC with Amount 9108.116886719685 and price 390.19868437
+Date 544
+Selling LTC with Amount 9108.116886719685 and price 410.72959329
+Balance: 3740973.1445201575
+Buying BTC with Amount 81.95333807620379 and price 45647.599382
+Date 545
+Selling BTC with Amount 81.95333807620379 and price 46933.279344
+Balance: 3846338.909103744
+Buying LTC with Amount 8971.212116850356 and price 428.74238832
+Date 546
+Date 547
+Date 548
+Selling LTC with Amount 8971.212116850356 and price 422.56103435
+Balance: 3790884.6714695394
+Buying BTC with Amount 79.36252841970104 and price 47766.682173
+Date 549
+Date 550
+Selling BTC with Amount 79.36252841970104 and price 49084.580025
+Balance: 3895476.3772031525
+Buying LTC with Amount 8685.115521880825 and price 448.52326574
+Date 551
+Date 552
+Date 553
+Selling LTC with Amount 8685.115521880825 and price 399.12364723
+Balance: 3466434.98370696
+Buying BTC with Amount 68.7592083900671 and price 50414.120012
+Date 554
+Selling BTC with Amount 68.7592083900671 and price 46394.349617
+Balance: 3190038.753436933
+Buying USDT with Amount 466046.594245994 and price 6.8448923194
+Date 555
+Date 556
+Date 557
+Date 558
+Date 559
+Date 560
+Date 561
+Selling USDT with Amount 466046.594245994 and price 6.90671477
+Balance: 3218850.8959870036
+Buying BTC with Amount 73.87201222148465 and price 43573.348
+Date 562
+Selling BTC with Amount 73.87201222148465 and price 44711.056692
+Balance: 3302895.726386917
+Buying ETH with Amount 2156.714779467734 and price 1531.4476248
+Date 563
+Date 564
+Date 565
+Date 566
+Selling ETH with Amount 2156.714779467734 and price 1438.3086469
+Balance: 3102021.516205468
+Buying USDT with Amount 450608.14669852855 and price 6.884077749
+Date 567
+Selling USDT with Amount 450608.14669852855 and price 6.876737925
+Balance: 3098714.1317157345
+Buying ETH with Amount 2014.7991278307547 and price 1537.9767089
+Date 568
+Date 569
+Date 570
+Date 571
+Date 572
+Selling ETH with Amount 2014.7991278307547 and price 1240.7651668794147
+Balance: 2499892.5760714253
+Buying BTC with Amount 55.10113596515521 and price 45369.165849
+Date 573
+Selling BTC with Amount 55.10113596515521 and price 37458.40934925977
+Balance: 2064000.9065920035
+Buying USDT with Amount 299859.1932877405 and price 6.883233707
+Date 574
+Date 575
+Date 576
+Selling USDT with Amount 299859.1932877405 and price 6.8528172789
+Balance: 2054880.260999243
+Buying LTC with Amount 5784.752743154337 and price 355.2235250557569
+Date 577
+Selling LTC with Amount 5784.752743154337 and price 351.604994125748
+Balance: 2033947.9542756854
+Buying ETH with Amount 1509.9600611710077 and price 1347.0210282901876
+Date 578
+Date 579
+Date 580
+Selling ETH with Amount 1509.9600611710077 and price 1334.7854450382779
+Balance: 2015472.7122401688
+Buying BTC with Amount 52.373795169461104 and price 38482.46447901833
+Date 581
+Selling BTC with Amount 52.373795169461104 and price 38482.46447901833
+Balance: 2015472.7122401688
+Buying USDT with Amount 293419.13559136476 and price 6.8689204887
+Date 582
+Selling USDT with Amount 293419.13559136476 and price 6.8595698886
+Balance: 2012729.0672415663
+Buying BTC with Amount 52.30249918996118 and price 38482.46447901833
+Date 583
+Selling BTC with Amount 52.30249918996118 and price 38482.46447901833
+Balance: 2012729.0672415663
+Buying ETH with Amount 1507.9045660284728 and price 1334.7854450382779
+Date 584
+Selling ETH with Amount 1507.9045660284728 and price 1334.7854450382779
+Balance: 2012729.0672415663
+Buying BTC with Amount 52.30249918996118 and price 38482.46447901833
+Date 585
+Date 586
+Selling BTC with Amount 52.30249918996118 and price 38533.95682823553
+Balance: 2015422.245794788
+Buying ETH with Amount 1463.2882639282402 and price 1377.3241373400535
+Date 587
+Date 588
+Selling ETH with Amount 1463.2882639282402 and price 1206.0166092213235
+Balance: 1764749.9503760934
+Buying USDT with Amount 256563.5811489617 and price 6.8784117468
+Date 589
+Date 590
+Date 591
+Date 592
+Selling USDT with Amount 256563.5811489617 and price 6.863063778
+Balance: 1760812.2205374027
+Buying ETH with Amount 1310.921532225148 and price 1343.1865884059541
+Date 593
+Date 594
+Selling ETH with Amount 1310.921532225148 and price 1327.5299836129461
+Balance: 1740287.640192709
+Buying BTC with Amount 38.50873871289557 and price 45192.018704313785
+Date 595
+Date 596
+Date 597
+Date 598
+Selling BTC with Amount 38.50873871289557 and price 44858.8586200936
+Balance: 1727458.0655599076
+Buying USDT with Amount 253559.43536037477 and price 6.8128329088
+Date 599
+Date 600
+Date 601
+Date 602
+Date 603
+Date 604
+Date 605
+Date 606
+Date 607
+Date 608
+Date 609
+Date 610
+Selling USDT with Amount 253559.43536037477 and price 6.8463147411
+Balance: 1735947.7000527263
+Buying LTC with Amount 5530.564737599032 and price 313.882538658493
+Date 611
+Date 612
+Date 613
+Date 614
+Date 615
+Selling LTC with Amount 5530.564737599032 and price 329.0694182247087
+Balance: 1819939.7206558024
+Buying ETH with Amount 1322.0899316630293 and price 1376.56272623341
+Date 616
+Date 617
+Date 618
+Selling ETH with Amount 1322.0899316630293 and price 1354.4547672054334
+Balance: 1790711.0106152957
+Buying USDT with Amount 259539.5942991494 and price 6.89956773436
+Date 619
+Date 620
+Date 621
+Date 622
+Date 623
+Date 624
+Date 625
+Date 626
+Date 627
+Date 628
+Date 629
+Date 630
+Date 631
+Date 632
+Date 633
+Date 634
+Selling USDT with Amount 259539.5942991494 and price 7.00312896174
+Balance: 1817589.249554623
+Buying LTC with Amount 8110.2046600007525 and price 224.1113912351571
+Date 635
+Date 636
+Selling LTC with Amount 8110.2046600007525 and price 222.570309292021
+Balance: 1805090.7595979574
+Buying BTC with Amount 62.808654608501755 and price 28739.522775156227
+Date 637
+Date 638
+Date 639
+Selling BTC with Amount 62.808654608501755 and price 27169.202214812904
+Balance: 1706461.0378987247
+Buying USDT with Amount 247007.25822593944 and price 6.90854613
+Date 640
+Date 641
+Date 642
+Date 643
+Date 644
+Date 645
+Date 646
+Selling USDT with Amount 247007.25822593944 and price 6.78775584
+Balance: 1676624.9595455085
+Buying BTC with Amount 71.97635910579604 and price 23294.10629233252
+Date 647
+Date 648
+Date 649
+Date 650
+Selling BTC with Amount 71.97635910579604 and price 21833.425380928926
+Balance: 1571490.465727342
+Buying LTC with Amount 9426.801847654053 and price 166.7045187884608
+Date 651
+Date 652
+Date 653
+Date 654
+Date 655
+Selling LTC with Amount 9426.801847654053 and price 212.2623438736805
+Balance: 2000955.0554157912
+Buying ETH with Amount 2609.871084113096 and price 766.6873155521279
+Date 656
+Date 657
+Date 658
+Date 659
+Date 660
+Date 661
+Selling ETH with Amount 2609.871084113096 and price 847.9533363443568
+Balance: 2213048.893202363
+Buying USDT with Amount 311595.2886622331 and price 7.10231821124
+Date 662
+Date 663
+Date 664
+Selling USDT with Amount 311595.2886622331 and price 6.9655236404593
+Balance: 2170424.3494325243
+Buying ETH with Amount 2307.7868375234243 and price 940.4786933275393
+Date 665
+Date 666
+Date 667
+Date 668
+Date 669
+Date 670
+Date 671
+Selling ETH with Amount 2307.7868375234243 and price 1037.461533746085
+Balance: 2394240.072016079
+Buying LTC with Amount 9174.264744470383 and price 260.9735099980805
+Date 672
+Date 673
+Date 674
+Date 675
+Date 676
+Selling LTC with Amount 9174.264744470383 and price 222.7713843203692
+Balance: 2043763.6572472255
+Buying USDT with Amount 295640.3169525313 and price 6.9130072593427
+Date 677
+Date 678
+Date 679
+Date 680
+Date 681
+Date 682
+Date 683
+Selling USDT with Amount 295640.3169525313 and price 6.8431838132934
+Balance: 2023121.0315264927
+Buying BTC with Amount 82.1137437663758 and price 24638.031816970044
+Date 684
+Date 685
+Selling BTC with Amount 82.1137437663758 and price 23942.23923662684
+Balance: 1965986.8978696454
+Buying LTC with Amount 9294.91172178488 and price 211.5121645816042
+Date 686
+Date 687
+Selling LTC with Amount 9294.91172178488 and price 216.0955150950889
+Balance: 2008588.7362824832
+Buying USDT with Amount 294738.44556297973 and price 6.8148175662862
+Date 688
+Selling USDT with Amount 294738.44556297973 and price 6.844232732582
+Balance: 2017258.5166724839
+Buying LTC with Amount 9237.76451633448 and price 218.3708529380143
+Date 689
+Date 690
+Date 691
+Date 692
+Date 693
+Date 694
+Selling LTC with Amount 9237.76451633448 and price 216.1910434077276
+Balance: 1997121.9495412332
+Buying USDT with Amount 294977.25201259257 and price 6.7704269936584
+Date 695
+Date 696
+Date 697
+Selling USDT with Amount 294977.25201259257 and price 6.7425396868363
+Balance: 1988895.8284088182
+Buying LTC with Amount 8998.972504824302 and price 221.0136576528689
+Date 698
+Date 699
+Date 700
+Date 701
+Date 702
+Date 703
+Selling LTC with Amount 8998.972504824302 and price 228.4690257140154
+Balance: 2055986.4806044209
+Buying USDT with Amount 305491.49235632573 and price 6.7300940682378
+Date 704
+Selling USDT with Amount 305491.49235632573 and price 6.70195086568
+Balance: 2047388.9716553523
+Buying LTC with Amount 7672.740357795627 and price 266.8393398162069
+Date 705
+Date 706
+Date 707
+Date 708
+Date 709
+Selling LTC with Amount 7672.740357795627 and price 281.0634416146493
+Balance: 2156526.8115776544
+Buying ETH with Amount 2594.7322399621994 and price 831.1172838431572
+Date 710
+Date 711
+Date 712
+Date 713
+Selling ETH with Amount 2594.7322399621994 and price 861.1037026454931
+Balance: 2234333.539205084
+Buying LTC with Amount 7601.953541472293 and price 293.9157056164216
+Date 714
+Selling LTC with Amount 7601.953541472293 and price 309.7199056793426
+Balance: 2354476.333843543
+Buying ETH with Amount 2426.97577893947 and price 970.1276602242783
+Date 715
+Date 716
+Date 717
+Date 718
+Selling ETH with Amount 2426.97577893947 and price 983.7649471574605
+Balance: 2387573.698920824
+Buying LTC with Amount 7302.267743633538 and price 326.9633191692298
+Date 719
+Date 720
+Selling LTC with Amount 7302.267743633538 and price 299.9813430990363
+Balance: 2190544.085403958
+Buying USDT with Amount 320117.08880238124 and price 6.8429464156356
+Date 721
+Date 722
+Date 723
+Date 724
+Selling USDT with Amount 320117.08880238124 and price 6.720742603264
+Balance: 2151424.5567470086
+Buying BTC with Amount 83.5649653327209 and price 25745.53281008293
+Date 725
+Selling BTC with Amount 83.5649653327209 and price 25588.68770515697
+Balance: 2138317.8009912637
+Buying LTC with Amount 6716.415590891437 and price 318.3718714326097
+Date 726
+Date 727
+Date 728
+Date 729
+Date 730
+Date 731
+Date 732
+Date 733
+Date 734
+Date 735
+Selling LTC with Amount 6716.415590891437 and price 365.688260337238
+Balance: 2456114.333134992
+Buying BTC with Amount 94.90804802368277 and price 25878.883659287865
+Date 736
+Selling BTC with Amount 94.90804802368277 and price 25924.899020774123
+Balance: 2460481.5612727567
+Buying USDT with Amount 365364.7389874916 and price 6.7343158732047
+Date 737
+Date 738
+Date 739
+Selling USDT with Amount 365364.7389874916 and price 6.6817000152122
+Balance: 2441257.582050724
+Buying LTC with Amount 6257.4657185908045 and price 390.1351908006139
+Date 740
+Date 741
+Date 742
+Date 743
+Date 744
+Selling LTC with Amount 6257.4657185908045 and price 399.2894824274346
+Balance: 2498540.2480835374
+Buying BTC with Amount 93.35263154308876 and price 26764.540075448076
+Date 745
+Date 746
+Date 747
+Selling BTC with Amount 93.35263154308876 and price 26734.096814968703
+Balance: 2495698.2896050364
+Buying USDT with Amount 368414.59634007263 and price 6.7741569264572
+Date 748
+Selling USDT with Amount 368414.59634007263 and price 6.7287242048554
+Balance: 2478960.2118154783
+Buying LTC with Amount 6201.067729597839 and price 399.7634471856103
+Date 749
+Date 750
+Selling LTC with Amount 6201.067729597839 and price 392.1391383984363
+Balance: 2431681.356634844
+Buying USDT with Amount 361817.5507578895 and price 6.72073908947
+Date 751
+Date 752
+Selling USDT with Amount 361817.5507578895 and price 6.7556629847906
+Balance: 2444317.4349026685
+Buying LTC with Amount 6059.55403511785 and price 403.3823975719576
+Date 753
+Selling LTC with Amount 6059.55403511785 and price 405.7853875426968
+Balance: 2458878.482476209
+Buying ETH with Amount 2617.6843328365053 and price 939.3334603534049
+Date 754
+Date 755
+Date 756
+Date 757
+Selling ETH with Amount 2617.6843328365053 and price 1033.326968451771
+Balance: 2704923.816013643
+Buying BTC with Amount 85.04324986502769 and price 31806.44931028192
+Date 758
+Selling BTC with Amount 85.04324986502769 and price 33539.086029619226
+Balance: 2852272.8734615673
+Buying LTC with Amount 4951.489570100951 and price 576.0433972606379
+Date 759
+Date 760
+Date 761
+Date 762
+Date 763
+Selling LTC with Amount 4951.489570100951 and price 567.1034320617931
+Balance: 2808006.729022422
+Buying BTC with Amount 79.75360368321978 and price 35208.52474799491
+Date 764
+Selling BTC with Amount 79.75360368321978 and price 34998.910886516955
+Balance: 2791289.2681875993
+Buying ETH with Amount 2349.153007177972 and price 1188.2109252392902
+Date 765
+Coin Index:1, Amount:2349.153007177972, Total Balance:2840919.783837254

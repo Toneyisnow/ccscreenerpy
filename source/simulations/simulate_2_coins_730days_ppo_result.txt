@@ -1,0 +1,1176 @@
+Date 0
+Buying BTC with Amount 14.985380829981121 and price 6673.17041419
+Date 1
+Date 2
+Date 3
+Date 4
+Date 5
+Date 6
+Date 7
+Date 8
+Date 9
+Selling BTC with Amount 14.985380829981121 and price 6805.1420867
+Balance: 101977.6457713319
+Buying USDT with Amount 14804.057356929392 and price 6.88849302003
+Date 10
+Date 11
+Date 12
+Date 13
+Selling USDT with Amount 14804.057356929392 and price 6.8812
+Balance: 101869.67948450253
+Buying BTC with Amount 14.765758041912095 and price 6899.04840614
+Date 14
+Date 15
+Date 16
+Date 17
+Date 18
+Date 19
+Date 20
+Date 21
+Date 22
+Date 23
+Date 24
+Date 25
+Date 26
+Date 27
+Date 28
+Date 29
+Date 30
+Date 31
+Date 32
+Date 33
+Selling BTC with Amount 14.765758041912095 and price 8437.89917137
+Balance: 124591.97754649998
+Buying USDT with Amount 18063.841316626625 and price 6.89731355378
+Date 34
+Date 35
+Date 36
+Date 37
+Date 38
+Date 39
+Selling USDT with Amount 18063.841316626625 and price 6.9165532069
+Balance: 124939.5195874466
+Buying BTC with Amount 14.677491348211337 and price 8512.32111969
+Date 40
+Date 41
+Date 42
+Selling BTC with Amount 14.677491348211337 and price 7593.8973482
+Balance: 111459.36262741052
+Buying USDT with Amount 16122.292759085292 and price 6.91336922688
+Date 43
+Date 44
+Date 45
+Date 46
+Date 47
+Selling USDT with Amount 16122.292759085292 and price 6.88480681848
+Balance: 110998.87111728116
+Buying BTC with Amount 15.37230137865701 and price 7220.70615083
+Date 48
+Date 49
+Selling BTC with Amount 15.37230137865701 and price 6458.01290254
+Balance: 99274.5206451004
+Buying USDT with Amount 14414.389230278019 and price 6.88718190269
+Date 50
+Date 51
+Date 52
+Date 53
+Selling USDT with Amount 14414.389230278019 and price 6.87606885338
+Balance: 99114.33282681079
+Buying BTC with Amount 13.756887306934232 and price 7204.70631295
+Date 54
+Date 55
+Date 56
+Date 57
+Date 58
+Date 59
+Date 60
+Date 61
+Date 62
+Date 63
+Date 64
+Date 65
+Date 66
+Date 67
+Date 68
+Date 69
+Selling BTC with Amount 13.756887306934232 and price 8037.11212088
+Balance: 110565.64572014133
+Buying USDT with Amount 16067.951530447606 and price 6.88112890499
+Date 70
+Date 71
+Date 72
+Selling USDT with Amount 16067.951530447606 and price 6.88396696967
+Balance: 110611.24760585985
+Buying BTC with Amount 13.48797702390224 and price 8200.72924278
+Date 73
+Date 74
+Date 75
+Date 76
+Date 77
+Date 78
+Date 79
+Date 80
+Date 81
+Date 82
+Date 83
+Date 84
+Date 85
+Date 86
+Date 87
+Date 88
+Date 89
+Date 90
+Date 91
+Date 92
+Date 93
+Date 94
+Date 95
+Date 96
+Date 97
+Date 98
+Selling BTC with Amount 13.48797702390224 and price 12482.2027999
+Balance: 168359.6645727394
+Buying USDT with Amount 25050.175917239885 and price 6.72089749505
+Date 99
+Selling USDT with Amount 25050.175917239885 and price 6.77002372687
+Balance: 169590.28532198147
+Buying BTC with Amount 14.149496091143755 and price 11985.6060053
+Date 100
+Selling BTC with Amount 14.149496091143755 and price 11946.5443737
+Balance: 169037.58291834357
+Buying USDT with Amount 25346.62976724194 and price 6.66903586278
+Date 101
+Selling USDT with Amount 25346.62976724194 and price 6.60258298196
+Balance: 167353.22635123238
+Buying BTC with Amount 13.2216268024799 and price 12657.5366898
+Date 102
+Date 103
+Date 104
+Date 105
+Date 106
+Date 107
+Date 108
+Date 109
+Date 110
+Selling BTC with Amount 13.2216268024799 and price 13991.1336805
+Balance: 184985.54806717802
+Buying USDT with Amount 26015.170391593325 and price 7.11067985651
+Date 111
+Date 112
+Date 113
+Selling USDT with Amount 26015.170391593325 and price 7.01144517497
+Balance: 182403.94091815944
+Buying BTC with Amount 12.217961911356772 and price 14929.1626739
+Date 114
+Date 115
+Date 116
+Date 117
+Date 118
+Date 119
+Date 120
+Date 121
+Date 122
+Date 123
+Date 124
+Date 125
+Date 126
+Selling BTC with Amount 12.217961911356772 and price 18467.8567747
+Balance: 225639.57065767676
+Buying USDT with Amount 32614.286049594517 and price 6.9184274129
+Date 127
+Date 128
+Date 129
+Date 130
+Date 131
+Selling USDT with Amount 32614.286049594517 and price 6.73700212047
+Balance: 219722.5142737334
+Buying BTC with Amount 12.66186631178229 and price 17353.090679
+Date 132
+Date 133
+Date 134
+Date 135
+Date 136
+Date 137
+Date 138
+Selling BTC with Amount 12.66186631178229 and price 17698.8756903
+Balance: 224100.7978594321
+Buying USDT with Amount 32124.377169435007 and price 6.97603557191
+Date 139
+Date 140
+Date 141
+Date 142
+Date 143
+Date 144
+Date 145
+Date 146
+Selling USDT with Amount 32124.377169435007 and price 6.79619295584
+Balance: 218323.4658296615
+Buying BTC with Amount 12.339921268416528 and price 17692.4520895
+Date 147
+Date 148
+Date 149
+Date 150
+Selling BTC with Amount 12.339921268416528 and price 17499.2549681
+Balance: 215939.42856230077
+Buying USDT with Amount 31478.619982366672 and price 6.8598759629
+Date 151
+Date 152
+Date 153
+Date 154
+Date 155
+Date 156
+Date 157
+Date 158
+Date 159
+Date 160
+Date 161
+Selling USDT with Amount 31478.619982366672 and price 6.74694176406
+Balance: 212384.41583400336
+Buying BTC with Amount 13.83614393469597 and price 15349.9715554
+Date 162
+Date 163
+Date 164
+Date 165
+Date 166
+Date 167
+Selling BTC with Amount 13.83614393469597 and price 17079.3519603
+Balance: 236312.37203404255
+Buying USDT with Amount 35014.6175306497 and price 6.74896339585
+Date 168
+Date 169
+Date 170
+Selling USDT with Amount 35014.6175306497 and price 6.75668266479
+Balance: 236582.65928359286
+Buying BTC with Amount 12.867482233850325 and price 18386.0878907
+Date 171
+Date 172
+Date 173
+Date 174
+Date 175
+Selling BTC with Amount 12.867482233850325 and price 18836.8470218
+Balance: 242382.7943947679
+Buying USDT with Amount 36009.324342410975 and price 6.73111197783
+Date 176
+Selling USDT with Amount 36009.324342410975 and price 6.50994276346
+Balance: 234418.64041996235
+Buying BTC with Amount 12.02715115393135 and price 19490.786922
+Date 177
+Date 178
+Date 179
+Date 180
+Date 181
+Date 182
+Date 183
+Date 184
+Date 185
+Date 186
+Date 187
+Date 188
+Date 189
+Date 190
+Selling BTC with Amount 12.02715115393135 and price 28017.2722648
+Balance: 336967.9684495981
+Buying USDT with Amount 49774.7693262368 and price 6.76985494882
+Date 191
+Date 192
+Date 193
+Date 194
+Date 195
+Selling USDT with Amount 49774.7693262368 and price 6.67198370496
+Balance: 332096.4498627947
+Buying BTC with Amount 11.500815111558255 and price 28875.905459
+Date 196
+Date 197
+Date 198
+Date 199
+Date 200
+Date 201
+Date 202
+Date 203
+Date 204
+Date 205
+Selling BTC with Amount 11.500815111558255 and price 27664.7992066
+Balance: 318167.7407734901
+Buying USDT with Amount 48473.06390799996 and price 6.56380503154
+Date 206
+Date 207
+Date 208
+Selling USDT with Amount 48473.06390799996 and price 6.55600104059
+Balance: 317789.4574214333
+Buying BTC with Amount 10.64867423049084 and price 29843.1007037
+Date 209
+Date 210
+Selling BTC with Amount 10.64867423049084 and price 27323.1687028
+Balance: 290955.5224608602
+Buying USDT with Amount 44693.99261773932 and price 6.50994698436
+Date 211
+Date 212
+Date 213
+Date 214
+Date 215
+Date 216
+Date 217
+Date 218
+Date 219
+Selling USDT with Amount 44693.99261773932 and price 6.60088462521
+Balance: 295019.8887096847
+Buying BTC with Amount 11.038245470434806 and price 26727.063599
+Date 220
+Date 221
+Date 222
+Date 223
+Selling BTC with Amount 11.038245470434806 and price 25004.8095161
+Balance: 276009.2253801759
+Buying USDT with Amount 41670.17351090117 and price 6.62366393334
+Date 224
+Date 225
+Date 226
+Selling USDT with Amount 41670.17351090117 and price 6.63100896967
+Balance: 276315.2943184909
+Buying BTC with Amount 10.688748321022258 and price 25851.0431736
+Date 227
+Date 228
+Date 229
+Date 230
+Date 231
+Date 232
+Date 233
+Date 234
+Date 235
+Selling BTC with Amount 10.688748321022258 and price 28757.9570781
+Balance: 307386.56543457153
+Buying USDT with Amount 46209.61258743087 and price 6.65200481508
+Date 236
+Date 237
+Selling USDT with Amount 46209.61258743087 and price 6.65134239948
+Balance: 307355.95546632365
+Buying BTC with Amount 10.44976991407344 and price 29412.7007574
+Date 238
+Date 239
+Date 240
+Date 241
+Date 242
+Date 243
+Date 244
+Date 245
+Date 246
+Date 247
+Selling BTC with Amount 10.44976991407344 and price 37047.2659657
+Balance: 387135.4052870488
+Buying USDT with Amount 58491.19372251938 and price 6.61869557875
+Date 248
+Date 249
+Selling USDT with Amount 58491.19372251938 and price 6.61876512453
+Balance: 387139.4731027394
+Buying BTC with Amount 9.730353719663054 and price 39786.7831177
+Date 250
+Date 251
+Date 252
+Date 253
+Selling BTC with Amount 9.730353719663054 and price 36673.6786192
+Balance: 356847.8651660601
+Buying USDT with Amount 53928.145218050835 and price 6.61709880292
+Date 254
+Date 255
+Date 256
+Date 257
+Selling USDT with Amount 53928.145218050835 and price 6.6545656263
+Balance: 358868.3814581558
+Buying BTC with Amount 9.37442667341775 and price 38281.6351293
+Date 258
+Date 259
+Date 260
+Date 261
+Date 262
+Date 263
+Date 264
+Date 265
+Date 266
+Date 267
+Selling BTC with Amount 9.37442667341775 and price 49445.0628386
+Balance: 463519.1159429886
+Buying USDT with Amount 69439.30594349258 and price 6.67516919481
+Date 268
+Date 269
+Date 270
+Date 271
+Date 272
+Date 273
+Date 274
+Selling USDT with Amount 69439.30594349258 and price 6.68363943658
+Balance: 464107.28365267103
+Buying BTC with Amount 9.57430928110736 and price 48474.2314068
+Date 275
+Date 276
+Date 277
+Date 278
+Date 279
+Date 280
+Date 281
+Date 282
+Date 283
+Date 284
+Date 285
+Date 286
+Date 287
+Date 288
+Date 289
+Date 290
+Date 291
+Date 292
+Date 293
+Date 294
+Date 295
+Date 296
+Date 297
+Date 298
+Date 299
+Selling BTC with Amount 9.57430928110736 and price 112179.206294
+Balance: 1074038.4159679012
+Buying USDT with Amount 159421.5203248969 and price 6.73709806417
+Date 300
+Selling USDT with Amount 159421.5203248969 and price 6.74633064789
+Balance: 1075510.2885010706
+Buying BTC with Amount 9.327333768353126 and price 115307.365986
+Date 301
+Date 302
+Date 303
+Date 304
+Date 305
+Date 306
+Date 307
+Selling BTC with Amount 9.327333768353126 and price 109373.24083
+Balance: 1020160.7225478779
+Buying USDT with Amount 152816.05070205024 and price 6.67574327344
+Date 308
+Date 309
+Date 310
+Date 311
+Date 312
+Date 313
+Date 314
+Selling USDT with Amount 152816.05070205024 and price 6.57344576118
+Balance: 1004528.0207276602
+Buying BTC with Amount 9.674951796777737 and price 103827.7029
+Date 315
+Date 316
+Date 317
+Selling BTC with Amount 9.674951796777737 and price 84212.6152298
+Balance: 814752.9930289057
+Buying USDT with Amount 124609.11342494287 and price 6.53847034647
+Date 318
+Date 319
+Date 320
+Selling USDT with Amount 124609.11342494287 and price 6.55547891659
+Balance: 816872.4158721849
+Buying BTC with Amount 8.397231920838589 and price 97278.7727638
+Date 321
+Date 322
+Date 323
+Date 324
+Date 325
+Date 326
+Selling BTC with Amount 8.397231920838589 and price 95316.7217909
+Balance: 800396.6188122366
+Buying USDT with Amount 121995.25998245158 and price 6.56088293043
+Date 327
+Date 328
+Date 329
+Date 330
+Date 331
+Date 332
+Date 333
+Date 334
+Date 335
+Date 336
+Date 337
+Date 338
+Selling USDT with Amount 121995.25998245158 and price 6.41060761413
+Balance: 782063.7425312729
+Buying BTC with Amount 10.55511862972585 and price 74093.3162351
+Date 339
+Date 340
+Selling BTC with Amount 10.55511862972585 and price 69609.9308217
+Balance: 734741.0776300534
+Buying USDT with Amount 114115.24851520732 and price 6.43858806943
+Date 341
+Date 342
+Date 343
+Selling USDT with Amount 114115.24851520732 and price 6.34154587865
+Balance: 723667.0839127335
+Buying BTC with Amount 10.015793256022736 and price 72252.5980134
+Date 344
+Date 345
+Date 346
+Selling BTC with Amount 10.015793256022736 and price 63903.1442951
+Balance: 640040.6816695103
+Buying USDT with Amount 101472.38477132468 and price 6.30753562274
+Date 347
+Date 348
+Date 349
+Date 350
+Date 351
+Date 352
+Date 353
+Date 354
+Date 355
+Date 356
+Selling USDT with Amount 101472.38477132468 and price 6.44705145284
+Balance: 654197.6856631082
+Buying BTC with Amount 11.901273551671173 and price 54968.7126191
+Date 357
+Date 358
+Date 359
+Date 360
+Date 361
+Date 362
+Date 363
+Date 364
+Date 365
+Date 366
+Date 367
+Date 368
+Selling BTC with Amount 11.901273551671173 and price 63541.755
+Balance: 756227.8082082694
+Buying USDT with Amount 118971.83924257963 and price 6.35635973204
+Date 369
+Date 370
+Date 371
+Date 372
+Date 373
+Selling USDT with Amount 118971.83924257963 and price 6.31282752607
+Balance: 751048.7015977318
+Buying BTC with Amount 11.08728028437938 and price 67739.6694531
+Date 374
+Date 375
+Date 376
+Date 377
+Date 378
+Date 379
+Date 380
+Date 381
+Selling BTC with Amount 11.08728028437938 and price 63047.180582
+Balance: 699021.7622525151
+Buying USDT with Amount 110719.37171723286 and price 6.31345492131
+Date 382
+Date 383
+Date 384
+Date 385
+Date 386
+Date 387
+Date 388
+Date 389
+Date 390
+Date 391
+Date 392
+Date 393
+Selling USDT with Amount 110719.37171723286 and price 6.26734273303
+Balance: 693916.2497376467
+Buying BTC with Amount 12.29085810391329 and price 56457.917248
+Date 394
+Date 395
+Date 396
+Date 397
+Selling BTC with Amount 12.29085810391329 and price 54753.0475322
+Balance: 672961.93797509
+Buying USDT with Amount 107589.24649512582 and price 6.25491821811
+Date 398
+Date 399
+Date 400
+Date 401
+Date 402
+Date 403
+Date 404
+Date 405
+Date 406
+Date 407
+Selling USDT with Amount 107589.24649512582 and price 6.29742934834
+Balance: 677535.6784441918
+Buying BTC with Amount 15.675578993137517 and price 43222.3702066
+Date 408
+Date 409
+Selling BTC with Amount 15.675578993137517 and price 41804.1694687
+Balance: 655304.5607491145
+Buying USDT with Amount 103665.24534827807 and price 6.32135252801
+Date 410
+Date 411
+Date 412
+Selling USDT with Amount 103665.24534827807 and price 6.29415110493
+Balance: 652484.718551704
+Buying BTC with Amount 15.271368665293382 and price 42726.0144688
+Date 413
+Date 414
+Date 415
+Date 416
+Date 417
+Date 418
+Date 419
+Date 420
+Date 421
+Selling BTC with Amount 15.271368665293382 and price 51220.5619578
+Balance: 782208.0849010651
+Buying USDT with Amount 124701.78657393243 and price 6.27262933749
+Date 422
+Selling USDT with Amount 124701.78657393243 and price 6.25939803056
+Balance: 780558.1172881861
+Buying BTC with Amount 14.031330960376012 and price 55629.6561953
+Date 423
+Date 424
+Date 425
+Date 426
+Date 427
+Date 428
+Date 429
+Selling BTC with Amount 14.031330960376012 and price 56892.5187886
+Balance: 798277.7602922572
+Buying USDT with Amount 126035.48092514455 and price 6.33375422883
+Date 430
+Selling USDT with Amount 126035.48092514455 and price 6.35677178391
+Balance: 801178.788916486
+Buying BTC with Amount 13.537872037421456 and price 59180.5556074
+Date 431
+Selling BTC with Amount 13.537872037421456 and price 59747.1087515
+Balance: 808848.7128837106
+Buying USDT with Amount 127855.1398018467 and price 6.32629016039
+Date 432
+Selling USDT with Amount 127855.1398018467 and price 6.33061508989
+Balance: 809401.6773495662
+Buying BTC with Amount 13.827390744391868 and price 58536.1108478
+Date 433
+Date 434
+Selling BTC with Amount 13.827390744391868 and price 58773.7000149
+Balance: 812686.9155996925
+Buying USDT with Amount 127853.20015173711 and price 6.35640652432
+Date 435
+Selling USDT with Amount 127853.20015173711 and price 6.3474619179
+Balance: 811543.3190447978
+Buying BTC with Amount 13.108528743252025 and price 61909.5655157
+Date 436
+Date 437
+Date 438
+Date 439
+Date 440
+Selling BTC with Amount 13.108528743252025 and price 58838.7341391
+Balance: 771289.2376789566
+Buying USDT with Amount 121483.7341723341 and price 6.34890953043
+Date 441
+Date 442
+Date 443
+Date 444
+Date 445
+Date 446
+Date 447
+Selling USDT with Amount 121483.7341723341 and price 6.37706156206
+Balance: 774709.2516059066
+Buying BTC with Amount 14.528885626240852 and price 53322.0008427
+Date 448
+Selling BTC with Amount 14.528885626240852 and price 51550.2946645
+Balance: 748968.3351795345
+Buying USDT with Amount 117555.64493182297 and price 6.37118137214
+Date 449
+Date 450
+Date 451
+Selling USDT with Amount 117555.64493182297 and price 6.37269342076
+Balance: 749146.0850302269
+Buying BTC with Amount 13.81070369115332 and price 54243.875025
+Date 452
+Date 453
+Date 454
+Selling BTC with Amount 13.81070369115332 and price 48299.0033687
+Balance: 667043.2241031318
+Buying USDT with Amount 104434.14809740415 and price 6.38721372516
+Date 455
+Date 456
+Date 457
+Date 458
+Date 459
+Date 460
+Date 461
+Date 462
+Selling USDT with Amount 104434.14809740415 and price 6.41714770916
+Balance: 670169.3542213332
+Buying BTC with Amount 13.848122287951393 and price 48394.2400483
+Date 463
+Date 464
+Date 465
+Date 466
+Date 467
+Selling BTC with Amount 13.848122287951393 and price 48895.1549112
+Balance: 677106.0844986247
+Buying USDT with Amount 105602.57453357732 and price 6.41183311571
+Date 468
+Selling USDT with Amount 105602.57453357732 and price 6.39260775176
+Balance: 675075.8365691595
+Buying BTC with Amount 13.753073043329929 and price 49085.4541703
+Date 469
+Date 470
+Date 471
+Selling BTC with Amount 13.753073043329929 and price 43437.314145
+Balance: 597396.5542422533
+Buying USDT with Amount 92739.98700693926 and price 6.44162861698
+Date 472
+Date 473
+Date 474
+Date 475
+Date 476
+Date 477
+Date 478
+Date 479
+Selling USDT with Amount 92739.98700693926 and price 6.47277782857
+Balance: 600285.3317203863
+Buying BTC with Amount 13.837948434673613 and price 43379.6479698
+Date 480
+Date 481
+Date 482
+Selling BTC with Amount 13.837948434673613 and price 39573.1863309
+Balance: 547611.7118427248
+Buying USDT with Amount 84719.49083993408 and price 6.46382203686
+Date 483
+Date 484
+Date 485
+Date 486
+Date 487
+Selling USDT with Amount 84719.49083993408 and price 6.58318481766
+Balance: 557724.0658573395
+Buying BTC with Amount 13.711845975709043 and price 40674.6157188
+Date 488
+Selling BTC with Amount 13.711845975709043 and price 39122.0964917
+Balance: 536436.1613410176
+Buying USDT with Amount 81371.1866008976 and price 6.59245838422
+Date 489
+Date 490
+Date 491
+Selling USDT with Amount 81371.1866008976 and price 6.61525055146
+Balance: 538290.7870345424
+Buying BTC with Amount 12.733723562821547 and price 42272.8500724
+Date 492
+Date 493
+Date 494
+Date 495
+Date 496
+Date 497
+Date 498
+Date 499
+Date 500
+Selling BTC with Amount 12.733723562821547 and price 41968.8357849
+Balance: 534419.5531383693
+Buying USDT with Amount 80164.61125224456 and price 6.66652709706
+Date 501
+Date 502
+Date 503
+Date 504
+Date 505
+Selling USDT with Amount 80164.61125224456 and price 6.67518108341
+Balance: 535113.2965898993
+Buying BTC with Amount 11.85663471729547 and price 45131.9712
+Date 506
+Date 507
+Date 508
+Date 509
+Date 510
+Date 511
+Selling BTC with Amount 11.85663471729547 and price 50229.855528
+Balance: 595557.0488980206
+Buying USDT with Amount 87970.39680057576 and price 6.76997115573
+Date 512
+Selling USDT with Amount 87970.39680057576 and price 6.76983697795
+Balance: 595545.2452254721
+Buying BTC with Amount 11.371375013727409 and price 52372.3159694
+Date 513
+Date 514
+Date 515
+Date 516
+Date 517
+Date 518
+Date 519
+Date 520
+Selling BTC with Amount 11.371375013727409 and price 53004.2475
+Balance: 602731.1756429235
+Buying USDT with Amount 88517.57027120414 and price 6.809169906
+Date 521
+Date 522
+Date 523
+Date 524
+Date 525
+Date 526
+Date 527
+Date 528
+Date 529
+Date 530
+Date 531
+Date 532
+Date 533
+Date 534
+Selling USDT with Amount 88517.57027120414 and price 6.868083555
+Balance: 607946.0687082141
+Buying BTC with Amount 13.893837793584817 and price 43756.525572
+Date 535
+Selling BTC with Amount 13.893837793584817 and price 43601.313117
+Balance: 605789.5720349
+Buying USDT with Amount 87229.60747889405 and price 6.944770125
+Date 536
+Selling USDT with Amount 87229.60747889405 and price 6.891297138
+Balance: 601125.1443681659
+Buying BTC with Amount 13.288865124633322 and price 45235.25062
+Date 537
+Date 538
+Date 539
+Date 540
+Selling BTC with Amount 13.288865124633322 and price 44431.135224
+Balance: 590439.3633260807
+Buying USDT with Amount 85637.16066603534 and price 6.894663003
+Date 541
+Date 542
+Selling USDT with Amount 85637.16066603534 and price 6.84479484
+Balance: 586168.7954391297
+Buying BTC with Amount 12.824066589584543 and price 45708.495924
+Date 543
+Date 544
+Date 545
+Date 546
+Date 547
+Date 548
+Date 549
+Date 550
+Date 551
+Date 552
+Date 553
+Date 554
+Selling BTC with Amount 12.824066589584543 and price 46394.349617
+Balance: 594964.2288688741
+Buying USDT with Amount 86920.90409992405 and price 6.8448923194
+Date 555
+Date 556
+Date 557
+Date 558
+Date 559
+Date 560
+Date 561
+Selling USDT with Amount 86920.90409992405 and price 6.90671477
+Balance: 600337.892168699
+Buying BTC with Amount 13.777639766599963 and price 43573.348
+Date 562
+Date 563
+Date 564
+Date 565
+Date 566
+Selling BTC with Amount 13.777639766599963 and price 43715.40069
+Balance: 602295.0429593954
+Buying USDT with Amount 87491.02856179776 and price 6.884077749
+Date 567
+Date 568
+Date 569
+Selling USDT with Amount 87491.02856179776 and price 6.858445766
+Balance: 600052.474402647
+Buying BTC with Amount 13.006994718518122 and price 46133.06051
+Date 570
+Date 571
+Date 572
+Date 573
+Selling BTC with Amount 13.006994718518122 and price 37458.40934925977
+Balance: 487221.33256991167
+Buying USDT with Amount 70783.78467295469 and price 6.883233707
+Date 574
+Date 575
+Date 576
+Date 577
+Date 578
+Selling USDT with Amount 70783.78467295469 and price 6.8603684862
+Balance: 485602.84570430487
+Buying BTC with Amount 12.586313239133743 and price 38581.81792222157
+Date 579
+Date 580
+Date 581
+Selling BTC with Amount 12.586313239133743 and price 38482.46447901833
+Balance: 484352.3521467624
+Buying USDT with Amount 70513.60587789102 and price 6.8689204887
+Date 582
+Selling USDT with Amount 70513.60587789102 and price 6.8595698886
+Balance: 483693.00761658925
+Buying BTC with Amount 12.569179603357046 and price 38482.46447901833
+Date 583
+Date 584
+Date 585
+Date 586
+Selling BTC with Amount 12.569179603357046 and price 38533.95682823553
+Balance: 484340.224202099
+Buying USDT with Amount 70170.99172654151 and price 6.9022855782
+Date 587
+Date 588
+Date 589
+Date 590
+Date 591
+Date 592
+Date 593
+Selling USDT with Amount 70170.99172654151 and price 6.780594684
+Balance: 475801.0534719954
+Buying BTC with Amount 10.695859752068076 and price 44484.60100460815
+Date 594
+Date 595
+Date 596
+Date 597
+Date 598
+Selling BTC with Amount 10.695859752068076 and price 44858.8586200936
+Balance: 479804.06043837115
+Buying USDT with Amount 70426.51226901777 and price 6.8128329088
+Date 599
+Date 600
+Date 601
+Date 602
+Date 603
+Date 604
+Date 605
+Date 606
+Date 607
+Date 608
+Date 609
+Date 610
+Selling USDT with Amount 70426.51226901777 and price 6.8463147411
+Balance: 482162.0691116363
+Buying BTC with Amount 10.940118814733436 and price 44072.83661876615
+Date 611
+Date 612
+Date 613
+Date 614
+Date 615
+Date 616
+Date 617
+Date 618
+Selling BTC with Amount 10.940118814733436 and price 44447.55161784091
+Balance: 486261.4957231769
+Buying USDT with Amount 70477.09573189403 and price 6.89956773436
+Date 619
+Date 620
+Date 621
+Date 622
+Date 623
+Date 624
+Date 625
+Date 626
+Date 627
+Date 628
+Date 629
+Date 630
+Date 631
+Date 632
+Date 633
+Date 634
+Date 635
+Date 636
+Selling USDT with Amount 70477.09573189403 and price 7.02461626616
+Balance: 495074.5530699783
+Buying BTC with Amount 17.22626213883912 and price 28739.522775156227
+Date 637
+Date 638
+Date 639
+Selling BTC with Amount 17.22626213883912 and price 27169.202214812904
+Balance: 468023.79945549555
+Buying USDT with Amount 67745.62847935931 and price 6.90854613
+Date 640
+Date 641
+Date 642
+Date 643
+Date 644
+Date 645
+Date 646
+Selling USDT with Amount 67745.62847935931 and price 6.78775584
+Balance: 459840.7853452415
+Buying BTC with Amount 19.740649397508868 and price 23294.10629233252
+Date 647
+Date 648
+Date 649
+Date 650
+Selling BTC with Amount 19.740649397508868 and price 21833.425380928926
+Balance: 431005.9955915894
+Buying USDT with Amount 63198.4474335024 and price 6.81988265685
+Date 651
+Date 652
+Date 653
+Selling USDT with Amount 63198.4474335024 and price 6.8660686085912
+Balance: 433924.8760348719
+Buying BTC with Amount 17.778908107632464 and price 24406.722471814144
+Date 654
+Date 655
+Date 656
+Date 657
+Date 658
+Date 659
+Selling BTC with Amount 17.778908107632464 and price 25800.145939653106
+Balance: 458698.4238245994
+Buying USDT with Amount 64380.20268253256 and price 7.12483659125
+Date 660
+Date 661
+Date 662
+Date 663
+Date 664
+Selling USDT with Amount 64380.20268253256 and price 6.9655236404593
+Balance: 448441.82376274175
+Buying BTC with Amount 17.070919744944014 and price 26269.34169118563
+Date 665
+Date 666
+Date 667
+Selling BTC with Amount 17.070919744944014 and price 26324.223246668862
+Balance: 449378.7023918737
+Buying USDT with Amount 64900.799184151874 and price 6.9240858054273
+Date 668
+Selling USDT with Amount 64900.799184151874 and price 6.9645316943798
+Balance: 452003.6729086044
+Buying BTC with Amount 17.095271905241436 and price 26440.273978328438
+Date 669
+Date 670
+Date 671
+Date 672
+Date 673
+Date 674
+Date 675
+Date 676
+Selling BTC with Amount 17.095271905241436 and price 24767.343828506655
+Balance: 423404.47711892467
+Buying USDT with Amount 61247.50940290242 and price 6.9130072593427
+Date 677
+Date 678
+Date 679
+Date 680
+Date 681
+Date 682
+Date 683
+Selling USDT with Amount 61247.50940290242 and price 6.8431838132934
+Balance: 419127.9649504772
+Buying BTC with Amount 17.011422343476017 and price 24638.031816970044
+Date 684
+Date 685
+Date 686
+Selling BTC with Amount 17.011422343476017 and price 24056.282517678323
+Balance: 409231.5819222045
+Buying USDT with Amount 59661.36228239819 and price 6.8592396530466
+Date 687
+Date 688
+Date 689
+Date 690
+Selling USDT with Amount 59661.36228239819 and price 6.8402001683761
+Balance: 408095.6603296076
+Buying BTC with Amount 16.87286398723166 and price 24186.5080307901
+Date 691
+Selling BTC with Amount 16.87286398723166 and price 24159.196917536035
+Balance: 407634.8436303319
+Buying USDT with Amount 59551.75697866877 and price 6.8450515032889
+Date 692
+Date 693
+Date 694
+Date 695
+Date 696
+Date 697
+Date 698
+Selling USDT with Amount 59551.75697866877 and price 6.7654273071735
+Balance: 402893.0828536457
+Buying BTC with Amount 17.381372074615662 and price 23179.590260428537
+Date 699
+Date 700
+Selling BTC with Amount 17.381372074615662 and price 23082.179881999302
+Balance: 401199.9568222381
+Buying USDT with Amount 59636.4061856724 and price 6.7274335004886
+Date 701
+Selling USDT with Amount 59636.4061856724 and price 6.7292456144389
+Balance: 401308.0247858329
+Buying BTC with Amount 17.34214688853529 and price 23140.61963407388
+Date 702
+Selling BTC with Amount 17.34214688853529 and price 22780.988500050695
+Balance: 395071.24883391237
+Buying USDT with Amount 58820.114265618184 and price 6.7166011791453
+Date 703
+Date 704
+Date 705
+Selling USDT with Amount 58820.114265618184 and price 6.7261572624352
+Balance: 395633.33874495607
+Buying BTC with Amount 16.25271389694903 and price 24342.60156509767
+Date 706
+Date 707
+Date 708
+Date 709
+Date 710
+Selling BTC with Amount 16.25271389694903 and price 24174.6165579834
+Balance: 392903.12648535095
+Buying USDT with Amount 58439.06184676416 and price 6.7232962691222
+Date 711
+Date 712
+Date 713
+Selling USDT with Amount 58439.06184676416 and price 6.7134055451323
+Balance: 392325.12185439595
+Buying BTC with Amount 16.215028757383756 and price 24195.154243913683
+Date 714
+Date 715
+Date 716
+Date 717
+Date 718
+Date 719
+Date 720
+Selling BTC with Amount 16.215028757383756 and price 25374.086501933354
+Balance: 411441.54232119233
+Buying USDT with Amount 60126.37208163437 and price 6.8429464156356
+Date 721
+Date 722
+Date 723
+Date 724
+Selling USDT with Amount 60126.37208163437 and price 6.720742603264
+Balance: 404093.87042874325
+Buying BTC with Amount 15.695688778695027 and price 25745.53281008293
+Date 725
+Date 726
+Date 727
+Selling BTC with Amount 15.695688778695027 and price 25445.995179407342
+Balance: 399392.4210001516
+Buying USDT with Amount 59361.43335542856 and price 6.7281465157483
+Date 728
+Date 729
+Date 730
+Date 731
+Selling USDT with Amount 59361.43335542856 and price 6.7863270759051
+Balance: 402846.102444481
+Buying BTC with Amount 15.473837686952468 and price 26034.013707159447
+Date 732
+Date 733
+Date 734
+Date 735
+Date 736
+Selling BTC with Amount 15.473837686952468 and price 25924.899020774123
+Balance: 401157.67949809175
+Buying USDT with Amount 59569.18075290555 and price 6.7343158732047
+Date 737
+Date 738
+Date 739
+Selling USDT with Amount 59569.18075290555 and price 6.6817000152122
+Balance: 398023.39594286727
+Buying BTC with Amount 15.194428352440188 and price 26195.351790180754
+Date 740
+Date 741
+Date 742
+Date 743
+Date 744
+Date 745
+Date 746
+Date 747
+Selling BTC with Amount 15.194428352440188 and price 26734.096814968703
+Balance: 406209.3186222414
+Buying USDT with Amount 59964.556923053715 and price 6.7741569264572
+Date 748
+Date 749
+Date 750
+Date 751
+Date 752
+Selling USDT with Amount 59964.556923053715 and price 6.7556629847906
+Balance: 405100.3376044429
+Buying BTC with Amount 15.002863678936706 and price 27001.53425863518
+Date 753
+Date 754
+Date 755
+Date 756
+Date 757
+Date 758
+Date 759
+Date 760
+Date 761
+Date 762
+Date 763
+Date 764
+Date 765
+Coin Index:0, Amount:15.002863678936706, Total Balance:531807.3496586394

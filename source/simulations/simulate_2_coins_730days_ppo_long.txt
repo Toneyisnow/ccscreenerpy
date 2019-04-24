@@ -1,0 +1,52 @@
+from ccdata import *
+import math
+import copy
+import pandas as pd
+import numpy as np
+import datetime
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
+import talib
+
+# Candidates: BTC, USDT
+
+coin_ids = ["BTC", "USDT"]
+
+btc_price = get_one("BTC","D","close")
+btc_price = btc_price[-766:]
+btc_ppo = talib.PPO(btc_price, fastperiod=15, slowperiod=30, matype=0)
+
+usdt_price=get_one("USDT","D","close")
+usdt_price = usdt_price[-766:]
+usdt_ppo = talib.PPO(usdt_price, fastperiod=15, slowperiod=30, matype=0)
+
+
+combined_prices = np.column_stack((btc_price, usdt_price))
+combined_prices
+
+combined_ppo = np.column_stack((btc_ppo, usdt_ppo))
+combined_ppo
+
+balance = 100000
+holding_coin_index = -1
+holding_coin_amount = 0
+
+for dindex in range(len(combined_prices)):
+    print("Date " + str(dindex))
+    cur_ppo = combined_ppo[dindex]
+    #selected_coin_index = max(xrange(len(cur_ppo)), key=cur_ppo.__getitem__)
+    selected_coin_index = np.argmax(cur_ppo)
+    if (holding_coin_index != selected_coin_index):
+        if (holding_coin_index >= 0):
+            # Sell the current holding coin with today's price
+            balance = holding_coin_amount * combined_prices[dindex][holding_coin_index]
+            print("Selling " + coin_ids[holding_coin_index] + " with Amount " + str(holding_coin_amount) + " and price " + str(combined_prices[dindex][holding_coin_index]) )
+            print("Balance: " + str(balance))
+        # Buy the new coin
+        holding_coin_index = selected_coin_index
+        holding_coin_amount = balance / combined_prices[dindex][selected_coin_index]
+        balance = 0
+        print("Buying " + coin_ids[selected_coin_index] + " with Amount " + str(holding_coin_amount) + " and price " + str(combined_prices[dindex][selected_coin_index]) )
+        
+print("Coin Index:" + str(holding_coin_index) + ", Amount:" + str(holding_coin_amount) + ", Total Balance:" + str(combined_prices[len(combined_prices)-1][holding_coin_index] * holding_coin_amount))
+
