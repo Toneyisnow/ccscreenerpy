@@ -16,16 +16,17 @@ class Account:
         self.account_id = account_id
         self.nickname = nickname
         self.strategy_id = strategy_id
-        self.balance = AccountBalance(initial_cash)
+        self.portfolio = Portfolio(initial_cash)
         self.data_folder_path = data_folder_path
         
     
     def save_to_file(self):
         with open(self.get_data_file_name(), mode='w+') as output_file:
             writer = csv.writer(output_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow([self.nickname, self.strategy_id, str(self.balance.get_cash_balance()), self.balance.serialize_positions()])
+            writer.writerow([self.nickname, self.strategy_id, str(self.portfolio.get_cash_balance()), self.portfolio.serialize_positions()])
     
 
+    @staticmethod
     def load_from_file(data_folder_path, account_id):
         data_file = Account.get_data_file_name_s(data_folder_path, account_id)
         if (not does_file_exist(data_file)):
@@ -41,17 +42,18 @@ class Account:
             account.data_folder_path = data_folder_path
             
             cash_balance = float(row[2])
-            coin_positions = AccountBalance.deserialize_positions(row[3])
+            coin_positions = Portfolio.deserialize_positions(row[3])
             if (type(coin_positions) is str):
                 coin_positions = {}
             
-            account.balance = AccountBalance(cash_balance, coin_positions)
+            account.portfolio = Portfolio(cash_balance, coin_positions)
             return account
             
             
     def get_data_file_name(self):
         return os.path.join(self.data_folder_path, Account.data_file_name_template.format(self.account_id))
     
+    @staticmethod
     def get_data_file_name_s(data_folder_path, account_id):
         return os.path.join(data_folder_path, Account.data_file_name_template.format(account_id))
     
@@ -69,14 +71,14 @@ class Account:
         if (strategy == None):
             print("Error: cannot find strategy with Id " + self.strategy_id)
             # Something wrong with strategy id, or cannot get strategy
-            return None, self.balance
+            return None, self.portfolio, MarketProvider.calculate_portfolio_percentage(self.portfolio)
             
         info = AccountInfo.generate_info(self.get_last_transaction_time())
     
-        new_transactions = strategy.execute_with_balance(self.balance, info)
+        new_transactions = strategy.execute_decision(self.portfolio, info)
         if (new_transactions == None or len(new_transactions) == 0):
             print("Strategy returned empty transactions.")
-            return None, self.balance
+            return None, self.portfolio, MarketProvider.calculate_portfolio_percentage(self.portfolio)
         
         print("Strategy returned " + str(len(new_transactions)) + " new transactions, saving them into transaction history and update balance.")
         # 保存交易记录，并更新BALANCE信息到文件
@@ -84,7 +86,7 @@ class Account:
         self.save_to_file()
     
         print("Account saved successfully.")
-        return new_transactions, self.balance
+        return new_transactions, self.portfolio, MarketProvider.calculate_portfolio_percentage(self.portfolio)
     
     
     def write_transactions_history(self, transactions):
@@ -205,7 +207,7 @@ class AccountManager:
         
         
     def execute_make_decision(self):
-        all_accounts = manager.get_all_accounts()
+        all_accounts = self.get_all_accounts()
         for acct_id in all_accounts:
             account = self.get_account_data(acct_id)
             account.make_decision()
@@ -228,7 +230,10 @@ class AccountManager:
     
     def get_all_positions(self, account_id):
         account = self.get_account_data(account_id)
-        return account.get_all_positions()
+        if (account == None or account.portfolio == None):
+            return {}
+        
+        return account.portfolio.get_all_positions()
         
         
     def get_transactions_history(self, account_id):
