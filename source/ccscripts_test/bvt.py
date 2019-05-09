@@ -72,6 +72,13 @@ class BVTTests:
 
 
     @staticmethod
+    def turtle_strategy_test():
+        print("Staring turtle_strategy_test.")
+        BVTTests.__strategy_test("Turtle_BtcEthLtcXrpZec")
+        print("Passed.")
+
+
+    @staticmethod
     def __register_account(strategy_id):
         manager = AccountManager()
         randomid = str(uuid.uuid4())

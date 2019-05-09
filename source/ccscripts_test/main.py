@@ -28,3 +28,5 @@ def run_all_tests():
     BVTTests.eightimmortals_strategy_test()
 
     BVTTests.gridding_strategy_test()
+    
+    BVTTests.turtle_strategy_test()
