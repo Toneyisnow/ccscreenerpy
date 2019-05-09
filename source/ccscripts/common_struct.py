@@ -66,12 +66,7 @@ class Portfolio:
     
     def get_coin_positions(self):
         return self.__coin_positions
-    
 
-    def get_coin_positions_percentage(self):
-        # Calculate the value percentage per coin, in order to return to CCSCREENER
-
-        return self.__coin_positions
     
 
     def serialize_positions(self):

@@ -45,3 +45,11 @@ class StrategyConfig:
     def coin_id_list(self):
         return (self.__dict[StrategyConfig.COIN_ID_LIST] if self.__dict != None else None)
     
+
+    def set_property(self, key, value):
+        self.__dict[key] = value
+
+
+    def get_property(self, key):
+        return self.__dict[key]
+        

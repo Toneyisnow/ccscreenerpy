@@ -83,7 +83,7 @@ class EightImmortalsStrategy(QuantifyStrategy):
         
         print("EightImmortalsStrategy: Begin execute buy.")
         
-        if (portfolio.cash_balance <= 0 and portfolio.get_coin_position("USDT") <= 0):
+        if (portfolio.get_cash_balance() <= 0 and portfolio.get_coin_position("USDT") <= 0):
             # No Cash or USDT, just leave it
             print("EightImmortalsStrategy: No cash or USDT, just leave it.")
             return None
@@ -120,7 +120,7 @@ class EightImmortalsStrategy(QuantifyStrategy):
         
         # 平均买入新选定的币
         print("EightImmortalsStrategy: evenly buy candidate coins.")
-        even_cash_value = portfolio.cash_balance / len(candidate_coins)
+        even_cash_value = portfolio.get_cash_balance() / len(candidate_coins)
         for candidate_coin in candidate_coins:
             
             transaction = MarketProvider.compose_buy_transaction(portfolio, candidate_coin, even_cash_value)
@@ -153,7 +153,7 @@ class EightImmortalsStrategy(QuantifyStrategy):
             
         # 买入USDT
         print("EightImmortalsStrategy: buy USDT with all cashes.")
-        transaction = MarketProvider.compose_buy_transaction(portfolio, "USDT", portfolio.cash_balance)
+        transaction = MarketProvider.compose_buy_transaction(portfolio, "USDT", portfolio.get_cash_balance())
         if (transaction != None):
             new_transactions.append(transaction)  
         
