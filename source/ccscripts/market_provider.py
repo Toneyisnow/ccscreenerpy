@@ -152,8 +152,7 @@ class MarketProvider:
             return 0
 
         price = MarketProvider.get_current_price(coin_id)
-        if not price:
-            return position * price
+        return position * price
 
 
 

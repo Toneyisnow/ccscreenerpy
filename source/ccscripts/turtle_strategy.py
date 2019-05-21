@@ -45,6 +45,8 @@ class TurtleStrategy(QuantifyStrategy):
         coin_count = len(self._config.coin_id_list())
         for coin_id in self._config.coin_id_list():
 
+            print('TurtleStrategy: calculating value for coin {}.'.format(coin_id))
+                    
             close_prices = MarketProvider.get_last_n_price(coin_id, 101, "close")
             high_prices = MarketProvider.get_last_n_price(coin_id, 101, "high")
             low_prices = MarketProvider.get_last_n_price(coin_id, 101, "low")
@@ -66,6 +68,8 @@ class TurtleStrategy(QuantifyStrategy):
             
             if not position:
 
+                print('TurtleStrategy: no position currently.')
+                
                 # 计算长短ma线.DIF
                 ma_short = talib.MA(close_prices, timeperiod=(MA_SHORT + 1))[-1]
                 ma_long = talib.MA(close_prices, timeperiod=(MA_LONG + 1))[-1]
@@ -89,6 +93,7 @@ class TurtleStrategy(QuantifyStrategy):
             # 根据涨跌幅调整持仓比例
             else:
 
+                print('TurtleStrategy: adjust position.')
                 average_price = np.mean(close_prices[-DON_OPEN:-1])
                     
                 # 获取持仓的资金
