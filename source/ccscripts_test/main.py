@@ -15,6 +15,11 @@ from bvt import *
 #   Gridding_BtcEth
 #   Gridding_BtcEthLtcXrpZec
 
+#   Turtle_Btc
+#   Turtle_Eth
+#   Turtle_BtcEth
+#   Turtle_BtcEthLtcXrpZec
+
 def run_all_tests():
 
     BVTTests.register_account_test()
