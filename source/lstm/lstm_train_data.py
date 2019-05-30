@@ -17,14 +17,14 @@ import ccdata
 
 def lstm_train_run():
 
-    high_prices = ccdata.get_one("BTC", "D", "high")
-    low_prices = ccdata.get_one("BTC", "D", "low")
+    high_prices = ccdata.get_one("EOS", "1h", "high")
+    low_prices = ccdata.get_one("EOS", "1h", "low")
     
-    high_prices = high_prices[1100:]
-    low_prices = low_prices[1100:]
+    #high_prices = high_prices[1100:]
+    #low_prices = low_prices[1100:]
 
-    TRAIN_DATA_SIZE = 700
-    TEST_DATA_SIZE = 200
+    TRAIN_DATA_SIZE = 1000
+    TEST_DATA_SIZE = 1000
 
     #high_prices = np.asmatrix(high_prices, dtype = None)
     #low_prices = np.asmatrix(low_prices, dtype = None)
@@ -65,7 +65,7 @@ def lstm_train_run():
     D = 1 
     num_unrollings = 50 
     batch_size = 40
-    num_nodes = [20,20,15] 
+    num_nodes = [20, 20, 15] 
     n_layers = len(num_nodes) 
     dropout = 0.2 
 
@@ -163,7 +163,7 @@ def lstm_train_run():
 
 
     # Run LSTM
-    epochs = 40
+    epochs = 20
     valid_summary = 1 
     n_predict_once = 30
     train_seq_length = train_data.size
@@ -179,7 +179,7 @@ def lstm_train_run():
     average_loss = 0
     data_gen = DataGeneratorSeq(train_data, batch_size, num_unrollings) 
     x_axis_seq = []
-    test_points_seq = np.arange(TRAIN_DATA_SIZE - TEST_DATA_SIZE, TRAIN_DATA_SIZE + TEST_DATA_SIZE, 5).tolist() 
+    test_points_seq = np.arange(TRAIN_DATA_SIZE, TRAIN_DATA_SIZE + TEST_DATA_SIZE, 55).tolist() 
     for ep in range(epochs):       
 
         print("Start epochs {}".format(ep))
