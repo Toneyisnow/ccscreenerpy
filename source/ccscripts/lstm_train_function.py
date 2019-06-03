@@ -35,6 +35,10 @@ class LSTMStrategy:
                          ]
         self._default_data_size = 2000
 
+    # This is used for testing purpose
+    def update_coin_list(self, coin_list):
+        self._coin_list = coin_list
+
     # Result will return 2 data: 
     # coin_delta_dict: A sorted dictionary of <coin, delta>, with -1 < delta < 1, from bad to good
     # timestamp: The timestamp of this data generated, e.g. '2019053002'

@@ -35,3 +35,5 @@ def run_all_tests():
     BVTTests.gridding_strategy_test()
     
     BVTTests.turtle_strategy_test()
+
+    

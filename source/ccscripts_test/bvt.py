@@ -6,6 +6,8 @@ sys.path.append('ccscripts_dev')
 import uuid
 
 from account import AccountManager
+from lstm_train_function import *
+
 
 
 
@@ -75,6 +77,20 @@ class BVTTests:
     def turtle_strategy_test():
         print("Staring turtle_strategy_test.")
         BVTTests.__strategy_test("Turtle_BtcEthLtcXrpZec")
+        print("Passed.")
+
+
+    @staticmethod
+    def lstm_test():
+        print("Staring lstm_test.")
+        lstm = LSTMStrategy()
+        lstm.update_coin_list(['BTC', 'ETH', 'LTC'])
+
+        # this method should be called at least every 1 hour
+        lstm.analysis()
+        print("Finished lstm analysis.")
+        
+        result, timestamp = lstm.read_result()
         print("Passed.")
 
 
