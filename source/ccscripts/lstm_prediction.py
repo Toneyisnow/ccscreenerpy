@@ -20,9 +20,9 @@ from common_function import *
 
 logging.basicConfig(stream = sys.stderr, level = logging.INFO)
 
-class LSTMStrategy:
+class LSTMPrediction:
 
-    _data_file_folder_path = "ccdatastore/Strategy/LSTM/"
+    _data_file_folder_path = "ccdatastore/Prediction/LSTM/"
     _prediction_result_file_template = "prediction_result_{}.dat"
     _indicator_file_template = "_ind_{}.running"
 
@@ -51,11 +51,11 @@ class LSTMStrategy:
         while check_point_time > now_time - datetime.timedelta(days = 1):
 
             check_point_time_string = check_point_time.strftime("%Y%m%d%H")
-            prediction_result_file_name = LSTMStrategy._prediction_result_file_template.format(check_point_time_string)
-            indicator_file_name = LSTMStrategy._indicator_file_template.format(check_point_time_string)
+            prediction_result_file_name = LSTMPrediction._prediction_result_file_template.format(check_point_time_string)
+            indicator_file_name = LSTMPrediction._indicator_file_template.format(check_point_time_string)
 
-            prediction_result_file_full_name = os.path.join(LSTMStrategy._data_file_folder_path, prediction_result_file_name)
-            indicator_file_full_name = os.path.join(LSTMStrategy._data_file_folder_path, indicator_file_name)
+            prediction_result_file_full_name = os.path.join(LSTMPrediction._data_file_folder_path, prediction_result_file_name)
+            indicator_file_full_name = os.path.join(LSTMPrediction._data_file_folder_path, indicator_file_name)
         
             if (does_file_exist(prediction_result_file_full_name) and not does_file_exist(indicator_file_full_name)):
                 result_found = True
@@ -84,11 +84,11 @@ class LSTMStrategy:
     def analysis(self):
 
         timestring = datetime.datetime.now().strftime("%Y%m%d%H")
-        prediction_result_file_name = LSTMStrategy._prediction_result_file_template.format(timestring)
-        indicator_file_name = LSTMStrategy._indicator_file_template.format(timestring)
+        prediction_result_file_name = LSTMPrediction._prediction_result_file_template.format(timestring)
+        indicator_file_name = LSTMPrediction._indicator_file_template.format(timestring)
 
-        prediction_result_file_full_name = os.path.join(LSTMStrategy._data_file_folder_path, prediction_result_file_name)
-        indicator_file_full_name = os.path.join(LSTMStrategy._data_file_folder_path, indicator_file_name)
+        prediction_result_file_full_name = os.path.join(LSTMPrediction._data_file_folder_path, prediction_result_file_name)
+        indicator_file_full_name = os.path.join(LSTMPrediction._data_file_folder_path, indicator_file_name)
         
         if (does_file_exist(indicator_file_full_name)):
             # There is already a process running, skip this run
@@ -147,6 +147,10 @@ class LSTMStrategy:
         
         # Step 1: Get Source Data
         mid_prices = (high_prices + low_prices) / 2.0
+        if len(mid_prices) <= TRAIN_DATA_SIZE:
+            # If the data is not enough, just return empty values
+            return 0, 0
+
         train_data = mid_prices[:TRAIN_DATA_SIZE]
         test_data = mid_prices[TRAIN_DATA_SIZE:]
 
