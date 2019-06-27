@@ -16,7 +16,7 @@ class EightImmortalsStrategy(QuantifyStrategy):
     SIGNAL_BUY = 1
     SIGNAL_SELL = -1
     
-    MAX_HOLDING_COIN = 3
+    MAX_HOLDING_COIN = 8
     
     def __init__(self, strategyId, strategy_config):
         QuantifyStrategy.__init__(self, strategyId, strategy_config)
@@ -83,12 +83,6 @@ class EightImmortalsStrategy(QuantifyStrategy):
         
         print("EightImmortalsStrategy: Begin execute buy.")
         
-        if (portfolio.get_cash_balance() <= 0 and portfolio.get_coin_position("USDT") <= 0):
-            # No Cash or USDT, just leave it
-            print("EightImmortalsStrategy: No cash or USDT, just leave it.")
-            return None
-    
-    
         # 选出当前势头最好的三个币
         top_coins = self.__pick_top_coins()
         print("EightImmortalsStrategy: Got top coins: " + str(top_coins))
@@ -104,13 +98,27 @@ class EightImmortalsStrategy(QuantifyStrategy):
         candidate_coins = list(set_old) + set_new
         print("EightImmortalsStrategy: Buy candidate coins: " + str(candidate_coins))
         
-        
         if (len(candidate_coins) == 0):
             # 没有空间买入新的币了，取消操作
             print("EightImmortalsStrategy: No space for new coins, cancel this operation")
             return None
     
         new_transactions = []
+        
+        # 卖掉部分已持有的币，已获取USDT或者现金以买入。持有与卖出当前币的Amount的比例为：existing_coins : candidate_coins
+        if len(existing_coins) > 0:
+            selling_rate = len(candidate_coins) / (len(existing_coins) + len(candidate_coins))
+            for existing_coin in existing_coins:
+                amount = portfolio.get_coin_position(existing_coin)
+                transaction = MarketProvider.compose_sell_transaction(portfolio, existing_coin, amount * selling_rate)
+                if (transaction != None):
+                    new_transactions.append(transaction)
+        
+        if (portfolio.get_cash_balance() <= 0 and portfolio.get_coin_position("USDT") <= 0):
+            # No Cash or USDT, just leave it
+            print("EightImmortalsStrategy: No cash or USDT, just leave it.")
+            return None
+    
         
         # 卖出USDT
         print("EightImmortalsStrategy: sell all USDT.")
