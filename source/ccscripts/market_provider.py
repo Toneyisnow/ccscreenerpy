@@ -11,6 +11,8 @@ from common_struct import *
 
 class MarketProvider:
 
+    MinimumTradingValue = 1.00
+
     # 获取指定币的当前价格
     @staticmethod
     def get_current_price(coin_id):
@@ -39,6 +41,10 @@ class MarketProvider:
             print("MarketProvider: cash value is 0, skip it.")
             return None
     
+        if (cash_value < MarketProvider.MinimumTradingValue):
+            print("MarketProvider: cash value is less than minimum trading value, skip it.")
+            return None
+    
         coin_price = MarketProvider.get_current_price(coin_id)
         if (coin_price == None or coin_price <= 0):
             print("MarketProvider: coin price invalid for [{}], skip it.".format(coin_id))
@@ -60,7 +66,7 @@ class MarketProvider:
     def compose_sell_transaction(portfolio, coin_id, amount):
     
         if (amount <= 0):
-            print("MarketProvider: cash value is 0, skip it.")
+            print("MarketProvider: amount is 0, skip it.")
             return None
     
         nowtime = datetime.datetime.now()
@@ -71,6 +77,10 @@ class MarketProvider:
             return None
         
         total_price = coin_price * amount
+        if (total_price < MarketProvider.MinimumTradingValue):
+            print("MarketProvider: total price is less than minimum trading value, skip it.")
+            return None
+
         portfolio.change_cash_balance(total_price)
         portfolio.remove_coin_position(coin_id, amount)
     
